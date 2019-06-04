@@ -1,0 +1,5 @@
+config/configstore
+config/gcloud
+config/hub
+config/yarn/global/node_modules
+config/fish/secrets.fish

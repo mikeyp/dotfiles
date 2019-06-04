@@ -1,0 +1,62 @@
+# download this file in your home directory and rename it .gitconfig
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+  ui = auto
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
+  whitespace = red reverse
+[core]
+  whitespace=fix,-indent-with-non-tab,-indent-with-tab,trailing-space,cr-at-eol
+	quotepath = false
+	excludesfile = /Users/mdp/.gitignore_global
+	autocrlf = false
+[alias]
+  st = status
+  ci = commit
+  co = checkout
+  po = push origin
+  pr = pull --rebase
+	pu = pull --rebase
+	p = pull --rebase
+  graph = log --pretty=medium --date=local --abbrev-commit --graph --decorate --color
+  sb = !git reflog | grep 'checkout: moving from' | cut -d\\  -f 6 | awk '!_[$0]++' | peco | xargs git checkout
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+[user]
+	name = Michael Prasuhn
+	email = mike@mikeyp.net
+[receive]
+	denyCurrentBranch = warn
+[url "http://git.drupal.org/project/"]
+  insteadOf = "mod:"
+[url "git@github.com:puppetlabs/"]
+  insteadOf = "gpl:"
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[push]
+	default = simple
+[diff]
+  renames = copies
+[filter "media"]
+	required = true
+	clean = git media clean %f
+	smudge = git media smudge %f
+[filter "hawser"]
+	clean = git hawser clean %f
+	smudge = git hawser smudge %f
+	required = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
