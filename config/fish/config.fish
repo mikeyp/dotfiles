@@ -46,7 +46,7 @@ function stree
 end
 
 function branch
-    command git branch -sort=-committerdate | cut -c 3- | peco | xargs git checkout
+    command git branch --sort=-committerdate | cut -c 3- | peco | xargs git checkout
 end
 
 function ll
