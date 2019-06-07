@@ -11,6 +11,8 @@ spoon.ReloadConfiguration:start()
 -- Configuration
 -------------------------------------------------------------------------------
 
+local hyper = {"cmd", "alt", "ctrl", "shift"}
+
 -- No window animations
 hs.window.animationDuration = 0
 
@@ -139,7 +141,7 @@ usbWatcher = hs.usb.watcher.new(usbDeviceCallback)
 usbWatcher:start()
 
 -- Resucetime watcher
-local rescueTimeApiTimer = hs.timer.doEvery(15, function()
+local rescueTimeApiTimer = hs.timer.doEvery(30, function()
   local url = 'https://us-central1-mikeyp-api.cloudfunctions.net/api?key=rescuetime-focus-mode'
   hs.http.asyncGet(url, {}, function(status, body, headers)
     local data = hs.json.decode(body)
