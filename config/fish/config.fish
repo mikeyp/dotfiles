@@ -57,10 +57,6 @@ function fish_user_key_bindings
   bind \cr 'peco_select_history (commandline -b)'
 end
 
-function fish_greeting
-    fortune
-end
-
 # added by travis gem
 bass "[ -f /Users/mdp/.travis/travis.sh ] && source /Users/mdp/.travis/travis.sh"
 
