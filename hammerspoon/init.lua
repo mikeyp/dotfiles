@@ -20,12 +20,12 @@ hs.window.animationDuration = 0
 hs.application.enableSpotlightForNameSearches(true)
 
 -- Undo
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "U", function()
+hs.hotkey.bind(hyper, "U", function()
   undo:pop()
 end)
 
 -- Play/Pause spotify
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "space", function ()
+hs.hotkey.bind(hyper, "space", function ()
   local application = hs.application.find("Spotify")
   if (application ~= nil) then
     if hs.spotify.getPlaybackState() == hs.spotify.state_paused then
@@ -37,7 +37,7 @@ hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "space", function ()
 end)
 
 -- Spotify show track info
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "D", function()
+hs.hotkey.bind(hyper, "D", function()
   local application = hs.application.find("Spotify")
 
   if (application ~= nil) then
@@ -61,7 +61,7 @@ hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "D", function()
 end)
 
 -- Spotify previous track
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "left", function()
+hs.hotkey.bind(hyper, "left", function()
   local application = hs.application.find("Spotify")
   if (application ~= nil) then
     hs.spotify.previous()
@@ -69,7 +69,7 @@ hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "left", function()
 end)
 
 -- Spotify previous track
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "right", function()
+hs.hotkey.bind(hyper, "right", function()
   local application = hs.application.find("Spotify")
   if (application ~= nil) then
     hs.spotify.next()
@@ -77,38 +77,38 @@ hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "right", function()
 end)
 
 -- Full screen
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "F", function()
+hs.hotkey.bind(hyper, "F", function()
   local window = hs.window.focusedWindow()
   fullScreen(window)
 end)
 
 
 -- Left toggler
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "R", chain({
+hs.hotkey.bind(hyper, "R", chain({
   leftLeftHalf,
   leftRightHalf
 }))
 
 -- Right toggler
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "T", chain({
+hs.hotkey.bind(hyper, "T", chain({
   rightLeftHalf,
   rightRightHalf
 }))
 
 -- PHPStorm hotkey
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "P", function()
+hs.hotkey.bind(hyper, "P", function()
   local window = hs.window.focusedWindow()
   rightLeftFourSevenths(window)
 end)
 
 -- Terminal hotkey
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "O", function()
+hs.hotkey.bind(hyper, "O", function()
   local window = hs.window.focusedWindow()
   rightRightThreeSevenths(window)
 end)
 
 -- Layout hotkey
-hs.hotkey.bind({"cmd", "alt", "ctrl", "shift"}, "L", function()
+hs.hotkey.bind(hyper, "L", function()
   hs.layout.apply(layout1)
 end)
 
