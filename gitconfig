@@ -17,6 +17,7 @@
 	excludesfile = /Users/mdp/.gitignore_global
 	autocrlf = false
 [alias]
+  b = !git branch --sort=-committerdate | cut -c 3- | peco | xargs git checkout
   st = status
   ci = commit
   co = checkout
@@ -39,7 +40,7 @@
   insteadOf = "gpl:"
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
+	path =
 [mergetool "sourcetree"]
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
