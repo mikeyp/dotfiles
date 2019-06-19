@@ -19,6 +19,11 @@ hs.window.animationDuration = 0
 -- Allow spotlight searches for apps
 hs.application.enableSpotlightForNameSearches(true)
 
+-- Lock displays
+hs.hotkey.bind(hyper, "s", function()
+  hs.caffeinate.lockScreen()
+end)
+
 -- Undo
 hs.hotkey.bind(hyper, "U", function()
   undo:pop()
