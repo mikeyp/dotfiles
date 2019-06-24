@@ -7,6 +7,7 @@ set -x GOPATH $HOME/Dropbox/projects/go
 set -x fish_user_paths $HOME/bin $fish_user_paths
 set -x fish_user_paths $GOPATH/bin $fish_user_paths
 set -x fish_user_paths $HOME/.composer/vendor/bin $fish_user_paths
+set -x fish_user_paths $HOME/context/tex/texmf-osx-64/bin $fish_user_paths
 
 set -g fish_user_paths "/usr/local/opt/icu4c/bin" $fish_user_paths
 set -g fish_user_paths "/usr/local/opt/icu4c/sbin" $fish_user_paths
@@ -37,7 +38,7 @@ end
 
 # Functions
 function proj
-    cd (find ~/git ~/Dropbox/projects ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco)
+    eval (find ~/git ~/Dropbox/projects ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
 end
 alias p="proj"
 
