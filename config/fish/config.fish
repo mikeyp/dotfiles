@@ -36,6 +36,9 @@ if test -e ~/.config/fish/secrets.fish
     source ~/.config/fish/secrets.fish
 end
 
+# Aliases
+alias typora="open -a typora"
+
 # Functions
 function proj
     eval (find ~/git ~/Dropbox/projects ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
