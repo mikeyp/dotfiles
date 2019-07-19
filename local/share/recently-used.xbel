@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///Users/mdp/Dropbox/CodingForDrupal/01-Setting%20up%20Drupal%208%20with%20Docksal/images/docksald.png" added="2018-11-11T03:41:52Z" modified="2018-11-11T03:41:52Z" visited="2018-11-11T03:41:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-11-11T03:41:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/mdp/Dropbox/CodingForDrupal/drupal-logos/drupal-8-logo-isolated/drupal%208%20logo%20isolated%20RGB%20300.jpg" added="2018-11-11T03:44:08Z" modified="2018-11-11T03:44:08Z" visited="2018-11-11T03:44:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-11-11T03:44:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/mdp/Dropbox/CodingForDrupal/drupal-logos/drupal-8-logo-isolated/drupal%208%20logo%20isolated%20CMYK%20300.png" added="2018-11-11T03:49:21Z" modified="2018-11-11T03:49:21Z" visited="2018-11-11T03:49:21.446006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-11-11T03:49:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

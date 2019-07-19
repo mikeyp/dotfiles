@@ -3,3 +3,5 @@ config/gcloud
 config/hub
 config/yarn/global/node_modules
 config/fish/secrets.fish
+local/share/fish/fish_history
+local/share/fish/fish_read_history

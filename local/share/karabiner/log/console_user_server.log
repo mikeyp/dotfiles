@@ -1,0 +1,1039 @@
+[2017-12-29 22:52:26.832] [info] [console_user_server] version 11.4.0
+[2017-12-29 22:52:26.896] [info] [console_user_server] Check version...
+[2017-12-29 22:52:26.997] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:52:27.042] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:52:27.042] [info] [console_user_server] Check for updates...
+[2017-12-29 22:52:28.050] [info] [console_user_server] input_source_manager initialize
+[2017-12-29 22:52:28.124] [info] [console_user_server] receiver is initialized
+[2017-12-29 22:52:28.124] [info] [console_user_server] Check version...
+[2017-12-29 22:52:28.124] [info] [console_user_server] grabber_client_ is connected
+[2017-12-29 22:52:28.161] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:52:28.161] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:52:28.294] [info] [console_user_server] frontmost_application_observer initialize
+[2017-12-29 22:52:28.295] [info] [console_user_server] input_source_observer initialize
+[2017-12-29 22:52:29.186] [info] [console_user_server] system_preferences::values is updated.
+[2017-12-29 22:52:44.453] [info] [console_user_server] the configuration directory is updated.
+[2017-12-29 22:52:44.486] [info] [console_user_server] the configuration directory is updated.
+[2017-12-29 22:52:44.487] [info] [console_user_server] Check version...
+[2017-12-29 22:52:44.487] [info] [console_user_server] Version is changed: '11.4.0' -> '11.5.0'
+[2017-12-29 22:52:54.816] [info] [console_user_server] version 11.5.0
+[2017-12-29 22:52:54.844] [info] [console_user_server] Check version...
+[2017-12-29 22:52:54.893] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:52:54.921] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:52:54.921] [info] [console_user_server] Check for updates...
+[2017-12-29 22:52:55.894] [info] [console_user_server] input_source_manager initialize
+[2017-12-29 22:52:56.007] [info] [console_user_server] receiver is initialized
+[2017-12-29 22:52:56.007] [info] [console_user_server] Check version...
+[2017-12-29 22:52:56.008] [info] [console_user_server] grabber_client_ is connected
+[2017-12-29 22:52:56.028] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:52:56.028] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:52:56.165] [info] [console_user_server] frontmost_application_observer initialize
+[2017-12-29 22:52:56.168] [info] [console_user_server] input_source_observer initialize
+[2017-12-29 22:52:57.083] [info] [console_user_server] system_preferences::values is updated.
+[2017-12-29 22:53:31.984] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:53:31.984] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:53:52.358] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:53:52.359] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:54:38.796] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:54:38.796] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:54:41.364] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:54:41.364] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 22:56:58.789] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 22:56:58.790] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 23:11:20.572] [info] [console_user_server] version 11.5.0
+[2017-12-29 23:11:20.938] [info] [console_user_server] Check version...
+[2017-12-29 23:11:21.192] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 23:11:21.514] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 23:11:21.515] [info] [console_user_server] Check for updates...
+[2017-12-29 23:11:22.262] [info] [console_user_server] input_source_manager initialize
+[2017-12-29 23:11:22.434] [info] [console_user_server] receiver is initialized
+[2017-12-29 23:11:22.434] [info] [console_user_server] Check version...
+[2017-12-29 23:11:22.434] [info] [console_user_server] grabber_client_ is connected
+[2017-12-29 23:11:22.446] [info] [console_user_server] Load karabiner.json...
+[2017-12-29 23:11:22.446] [info] [console_user_server] core_configuration is updated.
+[2017-12-29 23:11:22.447] [info] [console_user_server] frontmost_application_observer initialize
+[2017-12-29 23:11:22.448] [info] [console_user_server] input_source_observer initialize
+[2017-12-29 23:11:23.508] [info] [console_user_server] system_preferences::values is updated.
+[2017-12-30 12:01:36.398] [info] [console_user_server] version 11.5.0
+[2017-12-30 12:01:36.419] [info] [console_user_server] Check version...
+[2017-12-30 12:01:37.252] [info] [console_user_server] Load karabiner.json...
+[2017-12-30 12:01:37.253] [info] [console_user_server] core_configuration is updated.
+[2017-12-30 12:01:37.254] [info] [console_user_server] Check for updates...
+[2017-12-30 12:01:38.462] [info] [console_user_server] input_source_manager initialize
+[2017-12-30 12:01:38.607] [info] [console_user_server] receiver is initialized
+[2017-12-30 12:01:38.607] [info] [console_user_server] Check version...
+[2017-12-30 12:01:38.608] [info] [console_user_server] grabber_client_ is connected
+[2017-12-30 12:01:38.620] [info] [console_user_server] Load karabiner.json...
+[2017-12-30 12:01:38.621] [info] [console_user_server] core_configuration is updated.
+[2017-12-30 12:01:38.621] [info] [console_user_server] frontmost_application_observer initialize
+[2017-12-30 12:01:38.622] [info] [console_user_server] input_source_observer initialize
+[2017-12-30 12:01:39.676] [info] [console_user_server] system_preferences::values is updated.
+[2017-12-31 18:12:02.738] [info] [console_user_server] version 11.5.0
+[2017-12-31 18:12:02.741] [info] [console_user_server] Check version...
+[2017-12-31 18:12:03.116] [info] [console_user_server] Load karabiner.json...
+[2017-12-31 18:12:03.119] [info] [console_user_server] core_configuration is updated.
+[2017-12-31 18:12:03.119] [info] [console_user_server] Check for updates...
+[2017-12-31 18:12:04.176] [info] [console_user_server] input_source_manager initialize
+[2017-12-31 18:12:04.469] [info] [console_user_server] receiver is initialized
+[2017-12-31 18:12:04.469] [info] [console_user_server] Check version...
+[2017-12-31 18:12:04.470] [info] [console_user_server] grabber_client_ is connected
+[2017-12-31 18:12:04.480] [info] [console_user_server] Load karabiner.json...
+[2017-12-31 18:12:04.481] [info] [console_user_server] core_configuration is updated.
+[2017-12-31 18:12:04.481] [info] [console_user_server] frontmost_application_observer initialize
+[2017-12-31 18:12:04.482] [info] [console_user_server] input_source_observer initialize
+[2017-12-31 18:12:05.518] [info] [console_user_server] system_preferences::values is updated.
+[2018-01-04 19:29:59.494] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:30:15.208] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:30:15.208] [info] [console_user_server] Load karabiner.json...
+[2018-01-04 19:30:15.212] [info] [console_user_server] core_configuration is updated.
+[2018-01-04 19:30:52.422] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:33:55.458] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:33:57.695] [info] [console_user_server] Load karabiner.json...
+[2018-01-04 19:33:57.696] [info] [console_user_server] core_configuration is updated.
+[2018-01-04 19:34:21.064] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:35:20.599] [info] [console_user_server] the configuration directory is updated.
+[2018-01-04 19:35:22.770] [info] [console_user_server] Load karabiner.json...
+[2018-01-04 19:35:22.771] [info] [console_user_server] core_configuration is updated.
+[2018-01-04 19:35:22.871] [info] [console_user_server] Load karabiner.json...
+[2018-01-04 19:35:22.871] [info] [console_user_server] core_configuration is updated.
+[2018-01-12 18:40:08.769] [info] [console_user_server] version 11.5.0
+[2018-01-12 18:40:08.773] [info] [console_user_server] Check version...
+[2018-01-12 18:40:09.039] [info] [console_user_server] Load karabiner.json...
+[2018-01-12 18:40:09.072] [info] [console_user_server] core_configuration is updated.
+[2018-01-12 18:40:09.074] [info] [console_user_server] Check for updates...
+[2018-01-12 18:40:10.111] [info] [console_user_server] input_source_manager initialize
+[2018-01-12 18:40:10.343] [info] [console_user_server] receiver is initialized
+[2018-01-12 18:40:10.343] [info] [console_user_server] Check version...
+[2018-01-12 18:40:10.344] [info] [console_user_server] grabber_client_ is connected
+[2018-01-12 18:40:10.363] [info] [console_user_server] Load karabiner.json...
+[2018-01-12 18:40:10.363] [info] [console_user_server] core_configuration is updated.
+[2018-01-12 18:40:10.364] [info] [console_user_server] frontmost_application_observer initialize
+[2018-01-12 18:40:10.365] [info] [console_user_server] input_source_observer initialize
+[2018-01-12 18:40:11.417] [info] [console_user_server] system_preferences::values is updated.
+[2018-02-14 14:58:39.714] [info] [console_user_server] version 11.5.0
+[2018-02-14 14:58:41.132] [info] [console_user_server] Check version...
+[2018-02-14 14:58:41.828] [info] [console_user_server] Load karabiner.json...
+[2018-02-14 14:58:42.241] [info] [console_user_server] core_configuration is updated.
+[2018-02-14 14:58:42.242] [info] [console_user_server] Check for updates...
+[2018-02-14 14:58:42.912] [info] [console_user_server] input_source_manager initialize
+[2018-02-14 14:58:43.092] [info] [console_user_server] receiver is initialized
+[2018-02-14 14:58:43.092] [info] [console_user_server] Check version...
+[2018-02-14 14:58:43.093] [info] [console_user_server] grabber_client_ is connected
+[2018-02-14 14:58:43.604] [info] [console_user_server] Load karabiner.json...
+[2018-02-14 14:58:43.605] [info] [console_user_server] core_configuration is updated.
+[2018-02-14 14:58:43.605] [info] [console_user_server] frontmost_application_observer initialize
+[2018-02-14 14:58:43.606] [info] [console_user_server] input_source_observer initialize
+[2018-02-14 14:58:44.168] [info] [console_user_server] system_preferences::values is updated.
+[2018-02-14 15:13:06.973] [info] [console_user_server] version 11.5.0
+[2018-02-14 15:13:06.980] [info] [console_user_server] Check version...
+[2018-02-14 15:13:07.364] [info] [console_user_server] Load karabiner.json...
+[2018-02-14 15:13:07.371] [info] [console_user_server] core_configuration is updated.
+[2018-02-14 15:13:07.376] [info] [console_user_server] Check for updates...
+[2018-02-14 15:13:08.519] [info] [console_user_server] input_source_manager initialize
+[2018-02-14 15:13:09.011] [info] [console_user_server] receiver is initialized
+[2018-02-14 15:13:09.011] [info] [console_user_server] Check version...
+[2018-02-14 15:13:09.012] [info] [console_user_server] grabber_client_ is connected
+[2018-02-14 15:13:14.249] [info] [console_user_server] Load karabiner.json...
+[2018-02-14 15:13:14.250] [info] [console_user_server] core_configuration is updated.
+[2018-02-14 15:13:14.251] [info] [console_user_server] frontmost_application_observer initialize
+[2018-02-14 15:13:14.252] [info] [console_user_server] input_source_observer initialize
+[2018-02-14 15:13:14.253] [info] [console_user_server] system_preferences::values is updated.
+[2018-03-08 12:19:11.437] [info] [console_user_server] version 11.5.0
+[2018-03-08 12:19:12.324] [info] [console_user_server] Check version...
+[2018-03-08 12:19:12.990] [info] [console_user_server] Load karabiner.json...
+[2018-03-08 12:19:13.832] [info] [console_user_server] core_configuration is updated.
+[2018-03-08 12:19:13.833] [info] [console_user_server] Check for updates...
+[2018-03-08 12:19:14.114] [info] [console_user_server] input_source_manager initialize
+[2018-03-08 12:19:14.413] [info] [console_user_server] receiver is initialized
+[2018-03-08 12:19:14.413] [info] [console_user_server] Check version...
+[2018-03-08 12:19:14.415] [info] [console_user_server] grabber_client_ is connected
+[2018-03-08 12:19:14.454] [info] [console_user_server] Load karabiner.json...
+[2018-03-08 12:19:14.455] [info] [console_user_server] core_configuration is updated.
+[2018-03-08 12:19:14.456] [info] [console_user_server] frontmost_application_observer initialize
+[2018-03-08 12:19:14.457] [info] [console_user_server] input_source_observer initialize
+[2018-03-08 12:19:15.485] [info] [console_user_server] system_preferences::values is updated.
+[2018-03-20 00:28:45.442] [info] [console_user_server] version 11.5.0
+[2018-03-20 00:28:46.396] [info] [console_user_server] Check version...
+[2018-03-20 00:28:47.038] [info] [console_user_server] Load karabiner.json...
+[2018-03-20 00:28:47.984] [info] [console_user_server] core_configuration is updated.
+[2018-03-20 00:28:47.985] [info] [console_user_server] Check for updates...
+[2018-03-20 00:28:48.388] [info] [console_user_server] input_source_manager initialize
+[2018-03-20 00:28:48.476] [info] [console_user_server] receiver is initialized
+[2018-03-20 00:28:48.476] [info] [console_user_server] Check version...
+[2018-03-20 00:28:48.476] [info] [console_user_server] grabber_client_ is connected
+[2018-03-20 00:28:48.506] [info] [console_user_server] Load karabiner.json...
+[2018-03-20 00:28:48.507] [info] [console_user_server] core_configuration is updated.
+[2018-03-20 00:28:48.507] [info] [console_user_server] frontmost_application_observer initialize
+[2018-03-20 00:28:48.508] [info] [console_user_server] input_source_observer initialize
+[2018-03-20 00:28:49.555] [info] [console_user_server] system_preferences::values is updated.
+[2018-03-20 00:29:37.525] [info] [console_user_server] the configuration directory is updated.
+[2018-03-20 00:29:37.555] [info] [console_user_server] the configuration directory is updated.
+[2018-03-20 00:29:37.555] [info] [console_user_server] Check version...
+[2018-03-20 00:29:37.657] [info] [console_user_server] Version is changed: '11.5.0' -> '11.6.0'
+[2018-03-20 00:29:39.035] [info] [console_user_server] version 11.6.0
+[2018-03-20 00:29:39.338] [info] [console_user_server] Check version...
+[2018-03-20 00:29:39.542] [info] [console_user_server] Load karabiner.json...
+[2018-03-20 00:29:40.057] [info] [console_user_server] core_configuration is updated.
+[2018-03-20 00:29:40.058] [info] [console_user_server] Check for updates...
+[2018-03-20 00:29:40.542] [info] [console_user_server] input_source_manager initialize
+[2018-03-20 00:29:40.678] [info] [console_user_server] receiver is initialized
+[2018-03-20 00:29:40.678] [info] [console_user_server] Check version...
+[2018-03-20 00:29:40.747] [info] [console_user_server] grabber_client_ is connected
+[2018-03-20 00:29:40.747] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:40.756] [info] [console_user_server] Load karabiner.json...
+[2018-03-20 00:29:40.757] [info] [console_user_server] core_configuration is updated.
+[2018-03-20 00:29:40.758] [info] [console_user_server] frontmost_application_observer initialize
+[2018-03-20 00:29:40.758] [info] [console_user_server] input_source_observer initialize
+[2018-03-20 00:29:40.759] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:40.759] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2018-03-20 00:29:40.879] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:40.879] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:41.031] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:41.747] [info] [console_user_server] system_preferences::values is updated.
+[2018-03-20 00:29:41.747] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:45.599] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:45.684] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-03-20 00:29:51.197] [info] [console_user_server] connection_manager::grabber_is_launched_callback
+[2018-03-20 00:29:51.197] [info] [console_user_server] input_source_observer terminate
+[2018-03-20 00:29:51.197] [info] [console_user_server] frontmost_application_observer terminate
+[2018-03-20 00:29:51.954] [info] [console_user_server] receiver is terminated
+[2018-03-20 00:29:51.954] [info] [console_user_server] input_source_manager terminate
+[2018-03-20 00:29:51.954] [info] [console_user_server] input_source_manager initialize
+[2018-03-20 00:29:52.041] [info] [console_user_server] input_source_manager terminate
+[2018-03-20 00:29:52.041] [warning] [console_user_server] bind: No such file or directory
+[2018-03-20 00:29:52.542] [info] [console_user_server] input_source_manager initialize
+[2018-03-20 00:29:52.542] [info] [console_user_server] receiver is initialized
+[2018-03-20 00:29:52.542] [info] [console_user_server] Check version...
+[2018-03-20 00:29:52.542] [info] [console_user_server] grabber_client_ is connected
+[2018-03-20 00:29:52.554] [info] [console_user_server] Load karabiner.json...
+[2018-03-20 00:29:52.555] [info] [console_user_server] core_configuration is updated.
+[2018-03-20 00:29:52.555] [info] [console_user_server] frontmost_application_observer initialize
+[2018-03-20 00:29:52.556] [info] [console_user_server] input_source_observer initialize
+[2018-03-20 00:29:53.543] [info] [console_user_server] system_preferences::values is updated.
+[2018-04-03 23:21:37.419] [info] [console_user_server] Load karabiner.json...
+[2018-04-03 23:21:37.423] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:33:52.540] [info] [console_user_server] version 11.6.0
+[2018-04-19 20:33:53.608] [info] [console_user_server] Check version...
+[2018-04-19 20:33:53.954] [info] [console_user_server] Load karabiner.json...
+[2018-04-19 20:33:54.033] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:33:54.035] [info] [console_user_server] Check for updates...
+[2018-04-19 20:33:55.599] [info] [console_user_server] input_source_manager initialize
+[2018-04-19 20:33:56.014] [info] [console_user_server] receiver is initialized
+[2018-04-19 20:33:56.017] [info] [console_user_server] Check version...
+[2018-04-19 20:33:56.025] [info] [console_user_server] grabber_client_ is connected
+[2018-04-19 20:33:56.168] [info] [console_user_server] Load karabiner.json...
+[2018-04-19 20:33:56.169] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:33:56.171] [info] [console_user_server] frontmost_application_observer initialize
+[2018-04-19 20:33:56.172] [info] [console_user_server] input_source_observer initialize
+[2018-04-19 20:33:57.028] [info] [console_user_server] system_preferences::values is updated.
+[2018-04-19 20:36:31.907] [info] [console_user_server] the configuration directory is updated.
+[2018-04-19 20:36:31.989] [info] [console_user_server] the configuration directory is updated.
+[2018-04-19 20:36:31.990] [info] [console_user_server] Check version...
+[2018-04-19 20:36:32.017] [info] [console_user_server] Version is changed: '11.6.0' -> '12.0.0'
+[2018-04-19 20:36:42.504] [info] [console_user_server] version 12.0.0
+[2018-04-19 20:36:42.573] [info] [console_user_server] Check version...
+[2018-04-19 20:36:42.679] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2018-04-19 20:36:42.851] [info] [console_user_server] Load karabiner.json...
+[2018-04-19 20:36:42.889] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:36:42.889] [info] [console_user_server] Check for updates...
+[2018-04-19 20:36:43.828] [info] [console_user_server] input_source_manager initialize
+[2018-04-19 20:36:43.955] [info] [console_user_server] receiver is initialized
+[2018-04-19 20:36:43.955] [info] [console_user_server] Check version...
+[2018-04-19 20:36:43.955] [info] [console_user_server] grabber_client_ is connected
+[2018-04-19 20:36:43.955] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:43.966] [info] [console_user_server] Load karabiner.json...
+[2018-04-19 20:36:43.966] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:36:43.967] [info] [console_user_server] frontmost_application_observer initialize
+[2018-04-19 20:36:43.968] [info] [console_user_server] input_source_observer initialize
+[2018-04-19 20:36:43.968] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:43.968] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:45.034] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:45.218] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:47.038] [info] [console_user_server] system_preferences is updated.
+[2018-04-19 20:36:47.038] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-04-19 20:36:47.683] [info] [console_user_server] connection_manager::grabber_is_launched_callback
+[2018-04-19 20:36:47.683] [info] [console_user_server] input_source_observer terminate
+[2018-04-19 20:36:47.683] [info] [console_user_server] frontmost_application_observer terminate
+[2018-04-19 20:36:48.062] [info] [console_user_server] receiver is terminated
+[2018-04-19 20:36:48.062] [info] [console_user_server] input_source_manager terminate
+[2018-04-19 20:36:48.062] [info] [console_user_server] input_source_manager initialize
+[2018-04-19 20:36:48.102] [info] [console_user_server] input_source_manager terminate
+[2018-04-19 20:36:48.103] [warning] [console_user_server] bind: No such file or directory
+[2018-04-19 20:36:48.828] [info] [console_user_server] input_source_manager initialize
+[2018-04-19 20:36:48.828] [info] [console_user_server] receiver is initialized
+[2018-04-19 20:36:48.829] [info] [console_user_server] Check version...
+[2018-04-19 20:36:48.829] [info] [console_user_server] grabber_client_ is connected
+[2018-04-19 20:36:48.842] [info] [console_user_server] Load karabiner.json...
+[2018-04-19 20:36:48.842] [info] [console_user_server] core_configuration is updated.
+[2018-04-19 20:36:48.843] [info] [console_user_server] frontmost_application_observer initialize
+[2018-04-19 20:36:48.843] [info] [console_user_server] input_source_observer initialize
+[2018-04-19 20:36:51.898] [info] [console_user_server] system_preferences is updated.
+[2018-05-01 10:22:41.440] [info] [console_user_server] version 12.0.0
+[2018-05-01 10:22:41.448] [info] [console_user_server] Check version...
+[2018-05-01 10:22:41.773] [info] [console_user_server] Load karabiner.json...
+[2018-05-01 10:22:41.777] [info] [console_user_server] core_configuration is updated.
+[2018-05-01 10:22:41.780] [info] [console_user_server] Check for updates...
+[2018-05-01 10:22:43.899] [info] [console_user_server] input_source_manager initialize
+[2018-05-01 10:22:44.497] [info] [console_user_server] receiver is initialized
+[2018-05-01 10:22:44.497] [info] [console_user_server] Check version...
+[2018-05-01 10:22:44.497] [info] [console_user_server] grabber_client_ is connected
+[2018-05-01 10:22:50.245] [info] [console_user_server] Load karabiner.json...
+[2018-05-01 10:22:50.252] [info] [console_user_server] core_configuration is updated.
+[2018-05-01 10:22:50.253] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-01 10:22:50.254] [info] [console_user_server] input_source_observer initialize
+[2018-05-01 10:22:53.328] [info] [console_user_server] system_preferences is updated.
+[2018-05-01 11:26:32.960] [info] [console_user_server] version 12.0.0
+[2018-05-01 11:26:33.120] [info] [console_user_server] Check version...
+[2018-05-01 11:26:34.070] [info] [console_user_server] Load karabiner.json...
+[2018-05-01 11:26:35.462] [info] [console_user_server] core_configuration is updated.
+[2018-05-01 11:26:35.465] [info] [console_user_server] Check for updates...
+[2018-05-01 11:26:36.124] [info] [console_user_server] input_source_manager initialize
+[2018-05-01 11:26:36.516] [info] [console_user_server] receiver is initialized
+[2018-05-01 11:26:36.518] [info] [console_user_server] Check version...
+[2018-05-01 11:26:36.518] [info] [console_user_server] grabber_client_ is connected
+[2018-05-01 11:26:36.573] [info] [console_user_server] Load karabiner.json...
+[2018-05-01 11:26:36.578] [info] [console_user_server] core_configuration is updated.
+[2018-05-01 11:26:36.580] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-01 11:26:36.583] [info] [console_user_server] input_source_observer initialize
+[2018-05-01 11:26:39.656] [info] [console_user_server] system_preferences is updated.
+[2018-05-15 21:47:52.844] [info] [console_user_server] input_source_observer terminate
+[2018-05-15 21:47:52.876] [info] [console_user_server] frontmost_application_observer terminate
+[2018-05-15 21:47:53.884] [info] [console_user_server] receiver is terminated
+[2018-05-15 21:47:53.884] [info] [console_user_server] input_source_manager terminate
+[2018-05-15 21:49:57.555] [info] [console_user_server] version 12.0.0
+[2018-05-15 21:49:57.886] [info] [console_user_server] Check version...
+[2018-05-15 21:49:59.590] [info] [console_user_server] Load karabiner.json...
+[2018-05-15 21:49:59.710] [info] [console_user_server] core_configuration is updated.
+[2018-05-15 21:49:59.715] [info] [console_user_server] Check for updates...
+[2018-05-15 21:50:00.676] [info] [console_user_server] input_source_manager initialize
+[2018-05-15 21:50:01.089] [info] [console_user_server] receiver is initialized
+[2018-05-15 21:50:01.089] [info] [console_user_server] Check version...
+[2018-05-15 21:50:01.089] [info] [console_user_server] grabber_client_ is connected
+[2018-05-15 21:50:02.146] [info] [console_user_server] Load karabiner.json...
+[2018-05-15 21:50:02.150] [info] [console_user_server] core_configuration is updated.
+[2018-05-15 21:50:02.152] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-15 21:50:02.156] [info] [console_user_server] input_source_observer initialize
+[2018-05-15 21:50:05.337] [info] [console_user_server] system_preferences is updated.
+[2018-05-15 21:51:08.621] [info] [console_user_server] input_source_observer terminate
+[2018-05-15 21:51:08.695] [info] [console_user_server] frontmost_application_observer terminate
+[2018-05-15 21:51:09.281] [info] [console_user_server] receiver is terminated
+[2018-05-15 21:51:09.281] [info] [console_user_server] input_source_manager terminate
+[2018-05-16 07:38:18.229] [info] [console_user_server] version 12.0.0
+[2018-05-16 07:38:18.247] [info] [console_user_server] Check version...
+[2018-05-16 07:38:18.870] [info] [console_user_server] Load karabiner.json...
+[2018-05-16 07:38:18.949] [info] [console_user_server] core_configuration is updated.
+[2018-05-16 07:38:18.950] [info] [console_user_server] Check for updates...
+[2018-05-16 07:38:19.863] [info] [console_user_server] input_source_manager initialize
+[2018-05-16 07:38:21.201] [info] [console_user_server] receiver is initialized
+[2018-05-16 07:38:21.201] [info] [console_user_server] Check version...
+[2018-05-16 07:38:21.201] [info] [console_user_server] grabber_client_ is connected
+[2018-05-16 07:38:21.223] [info] [console_user_server] Load karabiner.json...
+[2018-05-16 07:38:21.227] [info] [console_user_server] core_configuration is updated.
+[2018-05-16 07:38:21.231] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-16 07:38:21.233] [info] [console_user_server] input_source_observer initialize
+[2018-05-16 07:38:24.308] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 01:42:29.859] [info] [console_user_server] version 12.0.0
+[2018-05-17 01:42:29.861] [info] [console_user_server] Check version...
+[2018-05-17 01:42:29.862] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2018-05-17 01:42:29.927] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 01:42:29.929] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 01:42:29.930] [info] [console_user_server] Check for updates...
+[2018-05-17 01:42:30.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:30.993] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:30.993] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:31.991] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:31.992] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:31.992] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:32.995] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:32.996] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:32.996] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:33.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:33.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:33.928] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:34.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:34.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:34.928] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:35.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:35.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:35.928] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:36.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:36.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:36.928] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:37.997] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:37.998] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:37.998] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:38.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:38.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:38.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:39.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:39.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:39.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:40.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:40.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:40.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:41.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:41.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:41.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:42.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:42.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:42.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:43.997] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:43.998] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:43.998] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:44.998] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:44.998] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:44.998] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:45.973] [info] [console_user_server] connection_manager::grabber_is_launched_callback
+[2018-05-17 01:42:46.000] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:46.001] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:46.001] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:46.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:46.927] [info] [console_user_server] input_source_manager terminate
+[2018-05-17 01:42:46.927] [warning] [console_user_server] bind: No such file or directory
+[2018-05-17 01:42:47.927] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 01:42:47.927] [info] [console_user_server] receiver is initialized
+[2018-05-17 01:42:47.927] [info] [console_user_server] Check version...
+[2018-05-17 01:42:47.928] [info] [console_user_server] grabber_client_ is connected
+[2018-05-17 01:42:47.941] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 01:42:47.942] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 01:42:47.943] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-17 01:42:47.943] [info] [console_user_server] input_source_observer initialize
+[2018-05-17 01:42:50.997] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 01:44:24.715] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 01:44:24.715] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 02:14:59.028] [info] [console_user_server] version 12.0.0
+[2018-05-17 02:14:59.033] [info] [console_user_server] Check version...
+[2018-05-17 02:14:59.088] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 02:14:59.096] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 02:14:59.097] [info] [console_user_server] Check for updates...
+[2018-05-17 02:15:00.252] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 02:15:00.978] [info] [console_user_server] receiver is initialized
+[2018-05-17 02:15:00.978] [info] [console_user_server] Check version...
+[2018-05-17 02:15:00.980] [info] [console_user_server] grabber_client_ is connected
+[2018-05-17 02:15:01.109] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 02:15:01.110] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 02:15:01.111] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-17 02:15:01.112] [info] [console_user_server] input_source_observer initialize
+[2018-05-17 02:15:04.252] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 11:51:40.350] [info] [console_user_server] version 12.0.0
+[2018-05-17 11:51:40.736] [info] [console_user_server] Check version...
+[2018-05-17 11:51:41.287] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 11:51:41.300] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 11:51:41.302] [info] [console_user_server] Check for updates...
+[2018-05-17 11:51:42.340] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 11:51:42.711] [info] [console_user_server] receiver is initialized
+[2018-05-17 11:51:42.711] [info] [console_user_server] Check version...
+[2018-05-17 11:51:42.718] [info] [console_user_server] grabber_client_ is connected
+[2018-05-17 11:51:42.775] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 11:51:42.776] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 11:51:42.777] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-17 11:51:42.778] [info] [console_user_server] input_source_observer initialize
+[2018-05-17 11:51:45.854] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 12:18:42.739] [info] [console_user_server] version 12.0.0
+[2018-05-17 12:18:42.743] [info] [console_user_server] Check version...
+[2018-05-17 12:18:42.975] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 12:18:43.024] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 12:18:43.074] [info] [console_user_server] Check for updates...
+[2018-05-17 12:18:44.038] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 12:18:44.126] [info] [console_user_server] receiver is initialized
+[2018-05-17 12:18:44.126] [info] [console_user_server] Check version...
+[2018-05-17 12:18:44.127] [info] [console_user_server] grabber_client_ is connected
+[2018-05-17 12:18:44.145] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 12:18:44.146] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 12:18:44.147] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-17 12:18:44.148] [info] [console_user_server] input_source_observer initialize
+[2018-05-17 12:18:47.229] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 12:27:19.562] [info] [console_user_server] version 12.0.0
+[2018-05-17 12:27:19.584] [info] [console_user_server] Check version...
+[2018-05-17 12:27:22.814] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 12:27:22.819] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 12:27:22.821] [info] [console_user_server] Check for updates...
+[2018-05-17 12:27:23.873] [info] [console_user_server] input_source_manager initialize
+[2018-05-17 12:27:23.972] [info] [console_user_server] receiver is initialized
+[2018-05-17 12:27:23.972] [info] [console_user_server] Check version...
+[2018-05-17 12:27:23.973] [info] [console_user_server] grabber_client_ is connected
+[2018-05-17 12:27:24.019] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 12:27:24.020] [info] [console_user_server] core_configuration is updated.
+[2018-05-17 12:27:24.020] [info] [console_user_server] frontmost_application_observer initialize
+[2018-05-17 12:27:24.022] [info] [console_user_server] input_source_observer initialize
+[2018-05-17 12:27:27.099] [info] [console_user_server] system_preferences is updated.
+[2018-05-17 16:03:00.348] [info] [console_user_server] Load karabiner.json...
+[2018-05-17 16:03:00.359] [info] [console_user_server] core_configuration is updated.
+[2018-05-24 08:04:40.921] [info] [console_user_server] Load karabiner.json...
+[2018-05-24 08:04:41.081] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:25:44.185] [info] [console_user_server] version 12.0.0
+[2018-06-03 15:25:44.246] [info] [console_user_server] Check version...
+[2018-06-03 15:25:44.641] [info] [console_user_server] Load karabiner.json...
+[2018-06-03 15:25:44.730] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:25:44.731] [info] [console_user_server] Check for updates...
+[2018-06-03 15:25:45.628] [info] [console_user_server] input_source_manager initialize
+[2018-06-03 15:25:46.089] [info] [console_user_server] receiver is initialized
+[2018-06-03 15:25:46.089] [info] [console_user_server] Check version...
+[2018-06-03 15:25:46.090] [info] [console_user_server] grabber_client_ is connected
+[2018-06-03 15:25:46.339] [info] [console_user_server] Load karabiner.json...
+[2018-06-03 15:25:46.340] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:25:46.343] [info] [console_user_server] frontmost_application_observer initialize
+[2018-06-03 15:25:46.348] [info] [console_user_server] input_source_observer initialize
+[2018-06-03 15:25:49.436] [info] [console_user_server] system_preferences is updated.
+[2018-06-03 15:26:23.160] [info] [console_user_server] the configuration directory is updated.
+[2018-06-03 15:26:23.194] [info] [console_user_server] the configuration directory is updated.
+[2018-06-03 15:26:23.194] [info] [console_user_server] Check version...
+[2018-06-03 15:26:23.242] [info] [console_user_server] Version is changed: '12.0.0' -> '12.1.0'
+[2018-06-03 15:26:25.519] [info] [console_user_server] version 12.1.0
+[2018-06-03 15:26:26.133] [info] [console_user_server] Check version...
+[2018-06-03 15:26:26.277] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2018-06-03 15:26:26.537] [info] [console_user_server] Load karabiner.json...
+[2018-06-03 15:26:26.539] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:26:26.540] [info] [console_user_server] Check for updates...
+[2018-06-03 15:26:27.610] [info] [console_user_server] input_source_manager initialize
+[2018-06-03 15:26:27.755] [info] [console_user_server] receiver is initialized
+[2018-06-03 15:26:27.755] [info] [console_user_server] Check version...
+[2018-06-03 15:26:27.755] [info] [console_user_server] grabber_client_ is connected
+[2018-06-03 15:26:27.756] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-06-03 15:26:27.766] [info] [console_user_server] Load karabiner.json...
+[2018-06-03 15:26:27.766] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:26:27.767] [info] [console_user_server] frontmost_application_observer initialize
+[2018-06-03 15:26:27.768] [info] [console_user_server] input_source_observer initialize
+[2018-06-03 15:26:27.768] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-06-03 15:26:27.768] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-06-03 15:26:28.789] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-06-03 15:26:30.807] [info] [console_user_server] system_preferences is updated.
+[2018-06-03 15:26:30.807] [warning] [console_user_server] local_datagram_client error: Connection refused
+[2018-06-03 15:26:33.840] [info] [console_user_server] connection_manager::grabber_is_launched_callback
+[2018-06-03 15:26:33.840] [info] [console_user_server] input_source_observer terminate
+[2018-06-03 15:26:33.840] [info] [console_user_server] frontmost_application_observer terminate
+[2018-06-03 15:26:34.013] [info] [console_user_server] receiver is terminated
+[2018-06-03 15:26:34.013] [info] [console_user_server] input_source_manager terminate
+[2018-06-03 15:26:34.610] [info] [console_user_server] input_source_manager initialize
+[2018-06-03 15:26:34.674] [info] [console_user_server] input_source_manager terminate
+[2018-06-03 15:26:34.675] [warning] [console_user_server] bind: No such file or directory
+[2018-06-03 15:26:35.607] [info] [console_user_server] input_source_manager initialize
+[2018-06-03 15:26:35.607] [info] [console_user_server] receiver is initialized
+[2018-06-03 15:26:35.607] [info] [console_user_server] Check version...
+[2018-06-03 15:26:35.607] [info] [console_user_server] grabber_client_ is connected
+[2018-06-03 15:26:35.616] [info] [console_user_server] Load karabiner.json...
+[2018-06-03 15:26:35.616] [info] [console_user_server] core_configuration is updated.
+[2018-06-03 15:26:35.617] [info] [console_user_server] frontmost_application_observer initialize
+[2018-06-03 15:26:35.618] [info] [console_user_server] input_source_observer initialize
+[2018-06-03 15:26:38.642] [info] [console_user_server] system_preferences is updated.
+[2018-06-17 14:12:02.058] [info] [console_user_server] version 12.1.0
+[2018-06-17 14:12:02.226] [info] [console_user_server] Check version...
+[2018-06-17 14:12:02.344] [info] [console_user_server] Load karabiner.json...
+[2018-06-17 14:12:02.605] [info] [console_user_server] core_configuration is updated.
+[2018-06-17 14:12:02.607] [info] [console_user_server] Check for updates...
+[2018-06-17 14:12:03.491] [info] [console_user_server] input_source_manager initialize
+[2018-06-17 14:12:04.622] [info] [console_user_server] receiver is initialized
+[2018-06-17 14:12:04.622] [info] [console_user_server] Check version...
+[2018-06-17 14:12:04.623] [info] [console_user_server] grabber_client_ is connected
+[2018-06-17 14:12:04.655] [info] [console_user_server] Load karabiner.json...
+[2018-06-17 14:12:04.656] [info] [console_user_server] core_configuration is updated.
+[2018-06-17 14:12:04.657] [info] [console_user_server] frontmost_application_observer initialize
+[2018-06-17 14:12:04.659] [info] [console_user_server] input_source_observer initialize
+[2018-06-17 14:12:07.733] [info] [console_user_server] system_preferences is updated.
+[2018-06-27 09:48:53.894] [info] [console_user_server] version 12.1.0
+[2018-06-27 09:48:53.895] [info] [console_user_server] Check version...
+[2018-06-27 09:48:53.962] [info] [console_user_server] Load karabiner.json...
+[2018-06-27 09:48:53.964] [info] [console_user_server] core_configuration is updated.
+[2018-06-27 09:48:53.965] [info] [console_user_server] Check for updates...
+[2018-06-27 09:48:55.948] [info] [console_user_server] input_source_manager initialize
+[2018-06-27 09:48:56.472] [info] [console_user_server] receiver is initialized
+[2018-06-27 09:48:56.472] [info] [console_user_server] Check version...
+[2018-06-27 09:48:56.473] [info] [console_user_server] grabber_client_ is connected
+[2018-06-27 09:48:56.989] [info] [console_user_server] Load karabiner.json...
+[2018-06-27 09:48:56.990] [info] [console_user_server] core_configuration is updated.
+[2018-06-27 09:48:56.991] [info] [console_user_server] frontmost_application_observer initialize
+[2018-06-27 09:48:56.995] [info] [console_user_server] input_source_observer initialize
+[2018-06-27 09:49:00.201] [info] [console_user_server] system_preferences is updated.
+[2018-07-02 11:31:30.704] [info] [console_user_server] version 12.1.0
+[2018-07-02 11:31:30.706] [info] [console_user_server] Check version...
+[2018-07-02 11:31:30.751] [info] [console_user_server] Load karabiner.json...
+[2018-07-02 11:31:30.753] [info] [console_user_server] core_configuration is updated.
+[2018-07-02 11:31:30.754] [info] [console_user_server] Check for updates...
+[2018-07-02 11:31:31.923] [info] [console_user_server] input_source_manager initialize
+[2018-07-02 11:31:33.111] [info] [console_user_server] receiver is initialized
+[2018-07-02 11:31:33.111] [info] [console_user_server] Check version...
+[2018-07-02 11:31:33.113] [info] [console_user_server] grabber_client_ is connected
+[2018-07-02 11:31:33.159] [info] [console_user_server] Load karabiner.json...
+[2018-07-02 11:31:33.160] [info] [console_user_server] core_configuration is updated.
+[2018-07-02 11:31:33.161] [info] [console_user_server] frontmost_application_observer initialize
+[2018-07-02 11:31:33.162] [info] [console_user_server] input_source_observer initialize
+[2018-07-02 11:31:36.237] [info] [console_user_server] system_preferences is updated.
+[2018-07-11 18:13:20.402] [info] [console_user_server] Load karabiner.json...
+[2018-07-11 18:13:20.422] [info] [console_user_server] core_configuration is updated.
+[2018-08-14 14:00:55.851] [info] [console_user_server] version 12.1.0
+[2018-08-14 14:00:55.852] [info] [console_user_server] Check version...
+[2018-08-14 14:00:57.962] [info] [console_user_server] Load karabiner.json...
+[2018-08-14 14:00:57.968] [info] [console_user_server] core_configuration is updated.
+[2018-08-14 14:00:57.969] [info] [console_user_server] Check for updates...
+[2018-08-14 14:00:59.211] [info] [console_user_server] input_source_manager initialize
+[2018-08-14 14:00:59.341] [info] [console_user_server] receiver is initialized
+[2018-08-14 14:00:59.341] [info] [console_user_server] Check version...
+[2018-08-14 14:00:59.342] [info] [console_user_server] grabber_client_ is connected
+[2018-08-14 14:00:59.355] [info] [console_user_server] Load karabiner.json...
+[2018-08-14 14:00:59.356] [info] [console_user_server] core_configuration is updated.
+[2018-08-14 14:00:59.357] [info] [console_user_server] frontmost_application_observer initialize
+[2018-08-14 14:00:59.359] [info] [console_user_server] input_source_observer initialize
+[2018-08-14 14:01:02.434] [info] [console_user_server] system_preferences is updated.
+[2018-09-16 14:00:55.897] [info] [console_user_server] version 12.1.0
+[2018-09-16 14:00:55.905] [info] [console_user_server] Check version...
+[2018-09-16 14:00:56.056] [info] [console_user_server] Load karabiner.json...
+[2018-09-16 14:00:56.211] [info] [console_user_server] core_configuration is updated.
+[2018-09-16 14:00:56.221] [info] [console_user_server] Check for updates...
+[2018-09-16 14:00:57.717] [info] [console_user_server] input_source_manager initialize
+[2018-09-16 14:00:58.429] [info] [console_user_server] receiver is initialized
+[2018-09-16 14:00:58.429] [info] [console_user_server] Check version...
+[2018-09-16 14:00:58.429] [info] [console_user_server] grabber_client_ is connected
+[2018-09-16 14:00:58.877] [info] [console_user_server] Load karabiner.json...
+[2018-09-16 14:00:58.902] [info] [console_user_server] core_configuration is updated.
+[2018-09-16 14:00:58.908] [info] [console_user_server] frontmost_application_observer initialize
+[2018-09-16 14:00:58.985] [info] [console_user_server] input_source_observer initialize
+[2018-09-16 14:01:02.054] [info] [console_user_server] system_preferences is updated.
+[2018-10-17 14:23:45.992] [info] [console_user_server] version 12.1.0
+[2018-10-17 14:23:46.001] [info] [console_user_server] Check version...
+[2018-10-17 14:23:46.655] [info] [console_user_server] Load karabiner.json...
+[2018-10-17 14:23:46.777] [info] [console_user_server] core_configuration is updated.
+[2018-10-17 14:23:46.778] [info] [console_user_server] Check for updates...
+[2018-10-17 14:23:48.654] [info] [console_user_server] input_source_manager initialize
+[2018-10-17 14:23:48.966] [info] [console_user_server] receiver is initialized
+[2018-10-17 14:23:48.966] [info] [console_user_server] Check version...
+[2018-10-17 14:23:48.966] [info] [console_user_server] grabber_client_ is connected
+[2018-10-17 14:23:48.979] [info] [console_user_server] Load karabiner.json...
+[2018-10-17 14:23:48.980] [info] [console_user_server] core_configuration is updated.
+[2018-10-17 14:23:48.981] [info] [console_user_server] frontmost_application_observer initialize
+[2018-10-17 14:23:48.982] [info] [console_user_server] input_source_observer initialize
+[2018-10-17 14:23:52.056] [info] [console_user_server] system_preferences is updated.
+[2018-10-31 09:28:53.827] [info] [console_user_server] version 12.1.0
+[2018-10-31 09:28:53.828] [info] [console_user_server] Check version...
+[2018-10-31 09:28:53.885] [info] [console_user_server] Load karabiner.json...
+[2018-10-31 09:28:53.888] [info] [console_user_server] core_configuration is updated.
+[2018-10-31 09:28:53.889] [info] [console_user_server] Check for updates...
+[2018-10-31 09:28:54.961] [info] [console_user_server] input_source_manager initialize
+[2018-10-31 09:28:55.143] [info] [console_user_server] receiver is initialized
+[2018-10-31 09:28:55.143] [info] [console_user_server] Check version...
+[2018-10-31 09:28:55.144] [info] [console_user_server] grabber_client_ is connected
+[2018-10-31 09:28:55.497] [info] [console_user_server] Load karabiner.json...
+[2018-10-31 09:28:55.506] [info] [console_user_server] core_configuration is updated.
+[2018-10-31 09:28:55.515] [info] [console_user_server] frontmost_application_observer initialize
+[2018-10-31 09:28:55.517] [info] [console_user_server] input_source_observer initialize
+[2018-10-31 09:28:58.594] [info] [console_user_server] system_preferences is updated.
+[2018-11-05 23:59:48.541] [info] [console_user_server] version 12.1.0
+[2018-11-05 23:59:48.543] [info] [console_user_server] Check version...
+[2018-11-05 23:59:48.649] [info] [console_user_server] Load karabiner.json...
+[2018-11-05 23:59:48.652] [info] [console_user_server] core_configuration is updated.
+[2018-11-05 23:59:48.653] [info] [console_user_server] Check for updates...
+[2018-11-05 23:59:49.716] [info] [console_user_server] input_source_manager initialize
+[2018-11-05 23:59:50.277] [info] [console_user_server] receiver is initialized
+[2018-11-05 23:59:50.277] [info] [console_user_server] Check version...
+[2018-11-05 23:59:50.278] [info] [console_user_server] grabber_client_ is connected
+[2018-11-05 23:59:50.800] [info] [console_user_server] Load karabiner.json...
+[2018-11-05 23:59:50.802] [info] [console_user_server] core_configuration is updated.
+[2018-11-05 23:59:50.805] [info] [console_user_server] frontmost_application_observer initialize
+[2018-11-05 23:59:50.808] [info] [console_user_server] input_source_observer initialize
+[2018-11-05 23:59:53.882] [info] [console_user_server] system_preferences is updated.
+[2018-11-20 22:11:31.534] [info] [console_user_server] version 12.1.0
+[2018-11-20 22:11:31.612] [info] [console_user_server] Check version...
+[2018-11-20 22:11:33.113] [info] [console_user_server] Load karabiner.json...
+[2018-11-20 22:11:38.980] [info] [console_user_server] core_configuration is updated.
+[2018-11-20 22:11:38.980] [info] [console_user_server] Check for updates...
+[2018-11-20 22:11:40.754] [info] [console_user_server] input_source_manager initialize
+[2018-11-20 22:11:43.553] [info] [console_user_server] receiver is initialized
+[2018-11-20 22:11:43.553] [info] [console_user_server] Check version...
+[2018-11-20 22:11:43.553] [info] [console_user_server] grabber_client_ is connected
+[2018-11-20 22:11:43.569] [info] [console_user_server] Load karabiner.json...
+[2018-11-20 22:11:43.570] [info] [console_user_server] core_configuration is updated.
+[2018-11-20 22:11:43.571] [info] [console_user_server] frontmost_application_observer initialize
+[2018-11-20 22:11:43.573] [info] [console_user_server] input_source_observer initialize
+[2018-11-20 22:11:46.608] [info] [console_user_server] system_preferences is updated.
+[2018-11-20 22:25:21.798] [info] [console_user_server] version 12.1.0
+[2018-11-20 22:25:21.810] [info] [console_user_server] Check version...
+[2018-11-20 22:25:21.933] [info] [console_user_server] Load karabiner.json...
+[2018-11-20 22:25:21.948] [info] [console_user_server] core_configuration is updated.
+[2018-11-20 22:25:21.949] [info] [console_user_server] Check for updates...
+[2018-11-20 22:25:22.926] [info] [console_user_server] input_source_manager initialize
+[2018-11-20 22:25:23.329] [info] [console_user_server] receiver is initialized
+[2018-11-20 22:25:23.329] [info] [console_user_server] Check version...
+[2018-11-20 22:25:23.332] [info] [console_user_server] grabber_client_ is connected
+[2018-11-20 22:25:31.040] [info] [console_user_server] Load karabiner.json...
+[2018-11-20 22:25:31.040] [info] [console_user_server] core_configuration is updated.
+[2018-11-20 22:25:31.041] [info] [console_user_server] frontmost_application_observer initialize
+[2018-11-20 22:25:31.042] [info] [console_user_server] input_source_observer initialize
+[2018-11-20 22:25:34.116] [info] [console_user_server] system_preferences is updated.
+[2018-11-26 12:52:52.637] [info] [console_user_server] version 12.1.0
+[2018-11-26 12:52:53.053] [info] [console_user_server] Check version...
+[2018-11-26 12:52:53.223] [info] [console_user_server] Load karabiner.json...
+[2018-11-26 12:52:56.028] [info] [console_user_server] core_configuration is updated.
+[2018-11-26 12:52:56.029] [info] [console_user_server] Check for updates...
+[2018-11-26 12:52:59.252] [info] [console_user_server] input_source_manager initialize
+[2018-11-26 12:53:01.360] [info] [console_user_server] receiver is initialized
+[2018-11-26 12:53:01.360] [info] [console_user_server] Check version...
+[2018-11-26 12:53:01.361] [info] [console_user_server] grabber_client_ is connected
+[2018-11-26 12:53:03.342] [info] [console_user_server] Load karabiner.json...
+[2018-11-26 12:53:03.342] [info] [console_user_server] core_configuration is updated.
+[2018-11-26 12:53:03.343] [info] [console_user_server] frontmost_application_observer initialize
+[2018-11-26 12:53:03.344] [info] [console_user_server] input_source_observer initialize
+[2018-11-26 12:53:06.416] [info] [console_user_server] system_preferences is updated.
+[2018-12-08 14:08:43.945] [info] [console_user_server] version 12.1.0
+[2018-12-08 14:08:44.037] [info] [console_user_server] Check version...
+[2018-12-08 14:08:44.085] [info] [console_user_server] Load karabiner.json...
+[2018-12-08 14:08:44.093] [info] [console_user_server] core_configuration is updated.
+[2018-12-08 14:08:44.096] [info] [console_user_server] Check for updates...
+[2018-12-08 14:08:45.224] [info] [console_user_server] input_source_manager initialize
+[2018-12-08 14:08:45.751] [info] [console_user_server] receiver is initialized
+[2018-12-08 14:08:45.751] [info] [console_user_server] Check version...
+[2018-12-08 14:08:45.751] [info] [console_user_server] grabber_client_ is connected
+[2018-12-08 14:08:46.310] [info] [console_user_server] Load karabiner.json...
+[2018-12-08 14:08:46.311] [info] [console_user_server] core_configuration is updated.
+[2018-12-08 14:08:46.313] [info] [console_user_server] frontmost_application_observer initialize
+[2018-12-08 14:08:46.316] [info] [console_user_server] input_source_observer initialize
+[2018-12-08 14:08:49.448] [info] [console_user_server] system_preferences is updated.
+[2018-12-09 11:47:01.067] [info] [console_user_server] version 12.1.0
+[2018-12-09 11:47:06.602] [info] [console_user_server] Check version...
+[2018-12-09 11:47:11.522] [info] [console_user_server] Load karabiner.json...
+[2018-12-09 11:47:13.306] [info] [console_user_server] core_configuration is updated.
+[2018-12-09 11:47:13.313] [info] [console_user_server] Check for updates...
+[2018-12-09 11:47:22.325] [info] [console_user_server] input_source_manager initialize
+[2018-12-09 11:47:24.505] [info] [console_user_server] receiver is initialized
+[2018-12-09 11:47:24.505] [info] [console_user_server] Check version...
+[2018-12-09 11:47:24.505] [info] [console_user_server] grabber_client_ is connected
+[2018-12-09 11:47:26.735] [info] [console_user_server] Load karabiner.json...
+[2018-12-09 11:47:26.735] [info] [console_user_server] core_configuration is updated.
+[2018-12-09 11:47:26.736] [info] [console_user_server] frontmost_application_observer initialize
+[2018-12-09 11:47:26.737] [info] [console_user_server] input_source_observer initialize
+[2018-12-09 11:47:29.737] [info] [console_user_server] system_preferences is updated.
+[2019-01-20 11:35:51.781] [info] [console_user_server] version 12.1.0
+[2019-01-20 11:35:54.795] [info] [console_user_server] Check version...
+[2019-01-20 11:35:57.303] [info] [console_user_server] Load karabiner.json...
+[2019-01-20 11:36:01.957] [info] [console_user_server] core_configuration is updated.
+[2019-01-20 11:36:01.958] [info] [console_user_server] Check for updates...
+[2019-01-20 11:36:09.678] [info] [console_user_server] input_source_manager initialize
+[2019-01-20 11:36:09.781] [info] [console_user_server] receiver is initialized
+[2019-01-20 11:36:09.781] [info] [console_user_server] Check version...
+[2019-01-20 11:36:09.782] [info] [console_user_server] grabber_client_ is connected
+[2019-01-20 11:36:12.173] [info] [console_user_server] Load karabiner.json...
+[2019-01-20 11:36:12.174] [info] [console_user_server] core_configuration is updated.
+[2019-01-20 11:36:12.174] [info] [console_user_server] frontmost_application_observer initialize
+[2019-01-20 11:36:12.175] [info] [console_user_server] input_source_observer initialize
+[2019-01-20 11:36:15.237] [info] [console_user_server] system_preferences is updated.
+[2019-02-05 12:49:04.093] [info] [console_user_server] version 12.1.0
+[2019-02-05 12:49:04.383] [info] [console_user_server] Check version...
+[2019-02-05 12:49:04.506] [info] [console_user_server] Load karabiner.json...
+[2019-02-05 12:49:04.850] [info] [console_user_server] core_configuration is updated.
+[2019-02-05 12:49:04.851] [info] [console_user_server] Check for updates...
+[2019-02-05 12:49:06.235] [info] [console_user_server] input_source_manager initialize
+[2019-02-05 12:49:06.852] [info] [console_user_server] receiver is initialized
+[2019-02-05 12:49:06.852] [info] [console_user_server] Check version...
+[2019-02-05 12:49:06.855] [info] [console_user_server] grabber_client_ is connected
+[2019-02-05 12:49:06.874] [info] [console_user_server] Load karabiner.json...
+[2019-02-05 12:49:06.875] [info] [console_user_server] core_configuration is updated.
+[2019-02-05 12:49:06.877] [info] [console_user_server] frontmost_application_observer initialize
+[2019-02-05 12:49:06.878] [info] [console_user_server] input_source_observer initialize
+[2019-02-05 12:49:09.882] [info] [console_user_server] system_preferences is updated.
+[2019-02-05 12:50:33.784] [info] [console_user_server] the configuration directory is updated.
+[2019-02-05 12:50:33.814] [info] [console_user_server] the configuration directory is updated.
+[2019-02-05 12:50:34.960] [info] [console_user_server] version 12.2.0
+[2019-02-05 12:50:35.057] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-05 12:50:35.690] [info] [console_user_server] receiver is initialized
+[2019-02-05 12:50:35.692] [info] [console_user_server] grabber_client is started.
+[2019-02-05 12:50:47.897] [info] [console_user_server] grabber_client is stopped.
+[2019-02-05 12:50:47.994] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-05 12:50:48.970] [info] [console_user_server] grabber_client is started.
+[2019-02-05 12:50:48.970] [info] [console_user_server] grabber_client is connected.
+[2019-02-05 12:50:48.971] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-05 12:50:48.971] [info] [console_user_server] system_preferences is updated.
+[2019-02-05 12:50:48.972] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-05 12:50:49.295] [info] [console_user_server] core_configuration is updated.
+[2019-02-05 12:50:49.306] [info] [console_user_server] Check for updates...
+[2019-02-05 12:50:49.426] [info] [console_user_server] system_preferences is updated.
+[2019-02-09 18:40:01.649] [info] [console_user_server] version 12.2.0
+[2019-02-09 18:40:13.200] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-09 18:40:15.857] [info] [console_user_server] receiver is initialized
+[2019-02-09 18:40:17.183] [info] [console_user_server] grabber_client is started.
+[2019-02-09 18:40:17.183] [info] [console_user_server] grabber_client is connected.
+[2019-02-09 18:40:17.184] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-09 18:40:17.184] [info] [console_user_server] system_preferences is updated.
+[2019-02-09 18:40:18.514] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-09 18:40:18.515] [info] [console_user_server] core_configuration is updated.
+[2019-02-09 18:40:19.768] [info] [console_user_server] Check for updates...
+[2019-02-09 18:40:21.784] [info] [console_user_server] system_preferences is updated.
+[2019-02-12 09:29:44.292] [info] [console_user_server] version 12.2.0
+[2019-02-12 09:29:44.313] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-12 09:29:44.420] [info] [console_user_server] receiver is initialized
+[2019-02-12 09:29:49.885] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-12 09:29:50.694] [info] [console_user_server] grabber_client is started.
+[2019-02-12 09:29:50.695] [info] [console_user_server] grabber_client is connected.
+[2019-02-12 09:29:50.695] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-12 09:29:50.695] [info] [console_user_server] system_preferences is updated.
+[2019-02-12 09:29:50.697] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-12 09:29:50.715] [info] [console_user_server] core_configuration is updated.
+[2019-02-12 09:29:50.724] [info] [console_user_server] Check for updates...
+[2019-02-12 09:29:50.826] [info] [console_user_server] system_preferences is updated.
+[2019-02-12 15:34:54.975] [info] [console_user_server] version 12.2.0
+[2019-02-12 15:34:55.044] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-12 15:34:55.104] [info] [console_user_server] receiver is initialized
+[2019-02-12 15:34:55.105] [info] [console_user_server] grabber_client is started.
+[2019-02-12 15:34:55.105] [info] [console_user_server] grabber_client is connected.
+[2019-02-12 15:34:55.105] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-12 15:34:55.105] [info] [console_user_server] system_preferences is updated.
+[2019-02-12 15:34:55.106] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-12 15:34:55.112] [info] [console_user_server] core_configuration is updated.
+[2019-02-12 15:34:55.125] [info] [console_user_server] Check for updates...
+[2019-02-12 15:34:55.265] [info] [console_user_server] system_preferences is updated.
+[2019-02-17 00:20:57.397] [info] [console_user_server] version 12.2.0
+[2019-02-17 00:20:57.582] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-17 00:20:57.687] [info] [console_user_server] receiver is initialized
+[2019-02-17 00:20:57.688] [info] [console_user_server] grabber_client is started.
+[2019-02-17 00:20:57.688] [info] [console_user_server] grabber_client is connected.
+[2019-02-17 00:20:57.688] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-17 00:20:57.688] [info] [console_user_server] system_preferences is updated.
+[2019-02-17 00:20:57.709] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-17 00:20:57.710] [info] [console_user_server] core_configuration is updated.
+[2019-02-17 00:20:57.765] [info] [console_user_server] Check for updates...
+[2019-02-17 00:20:58.416] [info] [console_user_server] system_preferences is updated.
+[2019-02-20 11:20:48.207] [info] [console_user_server] version 12.2.0
+[2019-02-20 11:20:48.594] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-02-20 11:20:48.874] [info] [console_user_server] receiver is initialized
+[2019-02-20 11:20:48.875] [info] [console_user_server] grabber_client is started.
+[2019-02-20 11:20:48.875] [info] [console_user_server] grabber_client is connected.
+[2019-02-20 11:20:48.876] [info] [console_user_server] system_preferences_monitor is started.
+[2019-02-20 11:20:48.876] [info] [console_user_server] system_preferences is updated.
+[2019-02-20 11:20:48.886] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-02-20 11:20:48.887] [info] [console_user_server] core_configuration is updated.
+[2019-02-20 11:20:48.901] [info] [console_user_server] Check for updates...
+[2019-02-20 11:20:49.376] [info] [console_user_server] system_preferences is updated.
+[2019-03-08 15:29:03.684] [info] [console_user_server] version 12.2.0
+[2019-03-08 15:29:03.909] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-03-08 15:29:04.090] [info] [console_user_server] receiver is initialized
+[2019-03-08 15:29:04.091] [info] [console_user_server] grabber_client is started.
+[2019-03-08 15:29:04.091] [info] [console_user_server] grabber_client is connected.
+[2019-03-08 15:29:04.092] [info] [console_user_server] system_preferences_monitor is started.
+[2019-03-08 15:29:04.095] [info] [console_user_server] system_preferences is updated.
+[2019-03-08 15:29:04.124] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-03-08 15:29:04.125] [info] [console_user_server] core_configuration is updated.
+[2019-03-08 15:29:04.425] [info] [console_user_server] Check for updates...
+[2019-03-08 15:29:04.959] [info] [console_user_server] system_preferences is updated.
+[2019-03-14 13:12:58.997] [info] [console_user_server] version 12.2.0
+[2019-03-14 13:12:59.193] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-03-14 13:12:59.490] [info] [console_user_server] receiver is initialized
+[2019-03-14 13:12:59.491] [info] [console_user_server] grabber_client is started.
+[2019-03-14 13:12:59.491] [info] [console_user_server] grabber_client is connected.
+[2019-03-14 13:12:59.492] [info] [console_user_server] system_preferences_monitor is started.
+[2019-03-14 13:12:59.492] [info] [console_user_server] system_preferences is updated.
+[2019-03-14 13:12:59.513] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-03-14 13:12:59.517] [info] [console_user_server] core_configuration is updated.
+[2019-03-14 13:12:59.900] [info] [console_user_server] Check for updates...
+[2019-03-14 13:13:00.979] [info] [console_user_server] system_preferences is updated.
+[2019-03-18 12:01:38.423] [info] [console_user_server] version 12.2.0
+[2019-03-18 12:01:38.927] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-03-18 12:01:40.020] [info] [console_user_server] receiver is initialized
+[2019-03-18 12:01:40.025] [info] [console_user_server] grabber_client is started.
+[2019-03-18 12:01:40.026] [info] [console_user_server] grabber_client is connected.
+[2019-03-18 12:01:40.026] [info] [console_user_server] system_preferences_monitor is started.
+[2019-03-18 12:01:40.027] [info] [console_user_server] system_preferences is updated.
+[2019-03-18 12:01:40.065] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-03-18 12:01:40.067] [info] [console_user_server] core_configuration is updated.
+[2019-03-18 12:01:40.280] [info] [console_user_server] Check for updates...
+[2019-03-18 12:01:40.727] [info] [console_user_server] system_preferences is updated.
+[2019-04-05 16:39:29.874] [info] [console_user_server] version 12.2.0
+[2019-04-05 16:39:30.162] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-04-05 16:39:30.932] [info] [console_user_server] receiver is initialized
+[2019-04-05 16:39:30.933] [info] [console_user_server] grabber_client is started.
+[2019-04-05 16:39:30.933] [info] [console_user_server] grabber_client is connected.
+[2019-04-05 16:39:30.933] [info] [console_user_server] system_preferences_monitor is started.
+[2019-04-05 16:39:30.933] [info] [console_user_server] system_preferences is updated.
+[2019-04-05 16:39:30.969] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-04-05 16:39:30.971] [info] [console_user_server] core_configuration is updated.
+[2019-04-05 16:39:31.276] [info] [console_user_server] Check for updates...
+[2019-04-05 16:39:32.125] [info] [console_user_server] system_preferences is updated.
+[2019-04-24 14:08:22.834] [info] [console_user_server] version 12.2.0
+[2019-04-24 14:08:23.080] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-04-24 14:08:23.259] [info] [console_user_server] receiver is initialized
+[2019-04-24 14:08:23.265] [info] [console_user_server] grabber_client is started.
+[2019-04-24 14:08:23.265] [info] [console_user_server] grabber_client is connected.
+[2019-04-24 14:08:23.265] [info] [console_user_server] system_preferences_monitor is started.
+[2019-04-24 14:08:23.265] [info] [console_user_server] system_preferences is updated.
+[2019-04-24 14:08:23.299] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-04-24 14:08:23.306] [info] [console_user_server] core_configuration is updated.
+[2019-04-24 14:08:23.487] [info] [console_user_server] Check for updates...
+[2019-04-24 14:08:23.992] [info] [console_user_server] system_preferences is updated.
+[2019-04-24 14:16:36.602] [info] [console_user_server] version 12.3.0
+[2019-04-24 14:16:36.703] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-04-24 14:16:36.795] [info] [console_user_server] receiver is initialized
+[2019-04-24 14:16:36.801] [info] [console_user_server] grabber_client is started.
+[2019-04-24 14:16:37.851] [info] [console_user_server] grabber_client is connected.
+[2019-04-24 14:16:37.853] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-04-24 14:16:37.860] [info] [console_user_server] core_configuration is updated.
+[2019-04-24 14:16:37.873] [info] [console_user_server] Check for updates...
+[2019-04-24 14:16:39.876] [info] [console_user_server] grabber_client is stopped.
+[2019-04-24 14:16:40.946] [info] [console_user_server] grabber_client is started.
+[2019-04-24 14:16:40.946] [info] [console_user_server] grabber_client is connected.
+[2019-04-24 14:16:40.947] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-04-24 14:16:40.947] [info] [console_user_server] core_configuration is updated.
+[2019-04-24 14:16:40.957] [info] [console_user_server] Check for updates...
+[2019-05-22 12:36:33.430] [info] [console_user_server] version 12.3.0
+[2019-05-22 12:36:34.454] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-05-22 12:36:34.687] [info] [console_user_server] receiver is initialized
+[2019-05-22 12:36:34.821] [info] [console_user_server] grabber_client is started.
+[2019-05-22 12:36:34.822] [info] [console_user_server] grabber_client is connected.
+[2019-05-22 12:36:34.845] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-05-22 12:36:34.846] [info] [console_user_server] core_configuration is updated.
+[2019-05-22 12:36:36.188] [info] [console_user_server] Check for updates...
+[2019-05-22 12:37:12.131] [info] [console_user_server] version 12.4.0
+[2019-05-22 12:37:12.232] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-05-22 12:37:12.294] [info] [console_user_server] receiver is initialized
+[2019-05-22 12:37:12.305] [info] [console_user_server] grabber_client is started.
+[2019-05-22 12:37:13.305] [info] [console_user_server] grabber_client is connected.
+[2019-05-22 12:37:13.448] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-05-22 12:37:13.454] [info] [console_user_server] core_configuration is updated.
+[2019-05-22 12:37:13.464] [info] [console_user_server] Check for updates...
+[2019-05-22 12:37:15.380] [info] [console_user_server] grabber_client is stopped.
+[2019-05-22 12:37:16.456] [info] [console_user_server] grabber_client is started.
+[2019-05-22 12:37:16.456] [info] [console_user_server] grabber_client is connected.
+[2019-05-22 12:37:16.517] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-05-22 12:37:16.518] [info] [console_user_server] core_configuration is updated.
+[2019-05-22 12:37:16.527] [info] [console_user_server] Check for updates...
+[2019-06-18 14:49:39.840] [info] [console_user_server] version 12.4.0
+[2019-06-18 14:49:41.970] [info] [console_user_server] receiver is initialized
+[2019-06-18 14:49:41.971] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-06-18 14:49:41.976] [info] [console_user_server] grabber_client is started.
+[2019-06-18 14:49:41.980] [info] [console_user_server] grabber_client is connected.
+[2019-06-18 14:49:42.878] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-18 14:49:42.880] [info] [console_user_server] core_configuration is updated.
+[2019-06-18 14:49:43.206] [info] [console_user_server] Check for updates...
+[2019-06-18 14:51:14.647] [info] [console_user_server] version 12.5.0
+[2019-06-18 14:51:15.075] [info] [console_user_server] receiver is initialized
+[2019-06-18 14:51:15.075] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-06-18 14:51:15.076] [info] [console_user_server] grabber_client is started.
+[2019-06-18 14:51:16.145] [info] [console_user_server] grabber_client is connected.
+[2019-06-18 14:51:16.226] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-18 14:51:16.227] [info] [console_user_server] core_configuration is updated.
+[2019-06-18 14:51:16.243] [info] [console_user_server] Check for updates...
+[2019-06-18 14:51:18.104] [info] [console_user_server] grabber_client is stopped.
+[2019-06-18 14:51:19.167] [info] [console_user_server] grabber_client is started.
+[2019-06-18 14:51:19.167] [info] [console_user_server] grabber_client is connected.
+[2019-06-18 14:51:19.256] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-18 14:51:19.256] [info] [console_user_server] core_configuration is updated.
+[2019-06-18 14:51:19.276] [info] [console_user_server] Check for updates...
+[2019-06-19 11:04:29.480] [info] [console_user_server] receiver is terminated
+[2019-06-19 11:04:29.482] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 11:04:37.295] [info] [console_user_server] receiver is initialized
+[2019-06-19 11:04:37.298] [info] [console_user_server] grabber_client is started.
+[2019-06-19 11:04:39.458] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 11:04:39.555] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 11:04:39.565] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 11:04:39.603] [info] [console_user_server] Check for updates...
+[2019-06-19 11:05:57.420] [info] [console_user_server] receiver is terminated
+[2019-06-19 11:05:57.422] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 11:06:05.004] [info] [console_user_server] receiver is initialized
+[2019-06-19 11:06:05.067] [info] [console_user_server] grabber_client is started.
+[2019-06-19 11:06:05.085] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 11:06:05.485] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 11:06:05.486] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 11:06:05.538] [info] [console_user_server] Check for updates...
+[2019-06-19 11:32:23.208] [info] [console_user_server] receiver is terminated
+[2019-06-19 11:32:23.219] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 11:38:02.288] [info] [console_user_server] receiver is initialized
+[2019-06-19 11:38:02.298] [info] [console_user_server] grabber_client is started.
+[2019-06-19 11:38:02.298] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 11:38:02.897] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 11:38:02.897] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 11:38:02.974] [info] [console_user_server] Check for updates...
+[2019-06-19 12:08:55.234] [info] [console_user_server] receiver is terminated
+[2019-06-19 12:08:55.235] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 12:15:41.060] [info] [console_user_server] receiver is initialized
+[2019-06-19 12:15:41.105] [info] [console_user_server] grabber_client is started.
+[2019-06-19 12:15:41.106] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 12:15:41.400] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 12:15:41.401] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 12:15:41.449] [info] [console_user_server] Check for updates...
+[2019-06-19 14:14:51.224] [info] [console_user_server] receiver is terminated
+[2019-06-19 14:14:51.224] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 14:22:59.602] [info] [console_user_server] receiver is initialized
+[2019-06-19 14:22:59.611] [info] [console_user_server] grabber_client is started.
+[2019-06-19 14:23:01.680] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 14:23:01.730] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 14:23:01.731] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 14:23:01.747] [info] [console_user_server] Check for updates...
+[2019-06-19 15:10:53.543] [info] [console_user_server] receiver is terminated
+[2019-06-19 15:10:53.544] [info] [console_user_server] grabber_client is stopped.
+[2019-06-19 15:10:58.789] [info] [console_user_server] receiver is initialized
+[2019-06-19 15:10:58.789] [info] [console_user_server] grabber_client is started.
+[2019-06-19 15:10:59.854] [info] [console_user_server] grabber_client is connected.
+[2019-06-19 15:11:00.897] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-19 15:11:00.897] [info] [console_user_server] core_configuration is updated.
+[2019-06-19 15:11:00.919] [info] [console_user_server] Check for updates...
+[2019-06-20 16:58:34.824] [info] [console_user_server] receiver is terminated
+[2019-06-20 16:58:34.825] [info] [console_user_server] grabber_client is stopped.
+[2019-06-20 17:51:05.278] [info] [console_user_server] receiver is initialized
+[2019-06-20 17:51:05.282] [info] [console_user_server] grabber_client is started.
+[2019-06-20 17:51:05.286] [info] [console_user_server] grabber_client is connected.
+[2019-06-20 17:51:05.631] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-20 17:51:05.633] [info] [console_user_server] core_configuration is updated.
+[2019-06-20 17:51:05.656] [info] [console_user_server] Check for updates...
+[2019-06-21 09:37:53.505] [info] [console_user_server] receiver is terminated
+[2019-06-21 09:37:53.505] [info] [console_user_server] grabber_client is stopped.
+[2019-06-21 09:42:30.157] [info] [console_user_server] receiver is initialized
+[2019-06-21 09:42:30.248] [info] [console_user_server] grabber_client is started.
+[2019-06-21 09:42:34.086] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 09:42:35.102] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 09:42:35.174] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 09:42:35.226] [info] [console_user_server] Check for updates...
+[2019-06-21 12:07:51.656] [info] [console_user_server] receiver is terminated
+[2019-06-21 12:07:51.679] [info] [console_user_server] grabber_client is stopped.
+[2019-06-21 15:01:04.222] [info] [console_user_server] receiver is initialized
+[2019-06-21 15:01:04.223] [info] [console_user_server] grabber_client is started.
+[2019-06-21 15:01:04.223] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 15:01:05.368] [error] [console_user_server] grabber_client error: Connection reset by peer
+[2019-06-21 15:01:05.368] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 15:01:05.369] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 15:01:05.369] [info] [console_user_server] grabber_client is closed.
+[2019-06-21 15:01:05.403] [info] [console_user_server] Check for updates...
+[2019-06-21 15:01:06.439] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 15:01:06.502] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 15:01:06.509] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 15:01:06.525] [info] [console_user_server] Check for updates...
+[2019-06-21 15:09:26.958] [info] [console_user_server] receiver is terminated
+[2019-06-21 15:09:26.958] [info] [console_user_server] grabber_client is stopped.
+[2019-06-21 15:11:21.110] [info] [console_user_server] receiver is initialized
+[2019-06-21 15:11:21.132] [info] [console_user_server] grabber_client is started.
+[2019-06-21 15:11:21.132] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 15:11:21.232] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 15:11:21.233] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 15:11:21.270] [info] [console_user_server] Check for updates...
+[2019-06-21 15:11:24.200] [error] [console_user_server] grabber_client error: Connection reset by peer
+[2019-06-21 15:11:24.200] [info] [console_user_server] grabber_client is closed.
+[2019-06-21 15:11:25.272] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 15:11:25.331] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 15:11:25.333] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 15:11:25.347] [info] [console_user_server] Check for updates...
+[2019-06-21 16:03:50.512] [info] [console_user_server] receiver is terminated
+[2019-06-21 16:03:50.514] [info] [console_user_server] grabber_client is stopped.
+[2019-06-21 16:16:26.847] [info] [console_user_server] receiver is initialized
+[2019-06-21 16:16:26.848] [info] [console_user_server] grabber_client is started.
+[2019-06-21 16:16:26.848] [info] [console_user_server] grabber_client is connected.
+[2019-06-21 16:16:26.976] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-21 16:16:26.976] [info] [console_user_server] core_configuration is updated.
+[2019-06-21 16:16:26.995] [info] [console_user_server] Check for updates...
+[2019-06-22 20:28:06.110] [info] [console_user_server] version 12.5.0
+[2019-06-22 20:28:06.243] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-06-22 20:28:06.580] [info] [console_user_server] receiver is initialized
+[2019-06-22 20:28:06.583] [info] [console_user_server] grabber_client is started.
+[2019-06-22 20:28:06.584] [info] [console_user_server] grabber_client is connected.
+[2019-06-22 20:28:07.099] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-22 20:28:07.102] [info] [console_user_server] core_configuration is updated.
+[2019-06-22 20:28:07.142] [info] [console_user_server] Check for updates...
+[2019-06-23 18:38:00.748] [info] [console_user_server] receiver is terminated
+[2019-06-23 18:38:00.769] [info] [console_user_server] grabber_client is stopped.
+[2019-06-23 18:38:06.938] [info] [console_user_server] receiver is initialized
+[2019-06-23 18:38:06.939] [info] [console_user_server] grabber_client is started.
+[2019-06-23 18:38:09.072] [info] [console_user_server] grabber_client is connected.
+[2019-06-23 18:38:09.148] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-06-23 18:38:09.156] [info] [console_user_server] core_configuration is updated.
+[2019-06-23 18:38:09.177] [info] [console_user_server] Check for updates...
+[2019-07-06 16:33:32.103] [info] [console_user_server] version 12.5.0
+[2019-07-06 16:33:33.974] [info] [console_user_server] karabiner_grabber_alerts.json is updated.
+[2019-07-06 16:33:34.629] [info] [console_user_server] receiver is initialized
+[2019-07-06 16:33:34.630] [info] [console_user_server] grabber_client is started.
+[2019-07-06 16:33:34.631] [info] [console_user_server] grabber_client is connected.
+[2019-07-06 16:33:35.471] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2019-07-06 16:33:35.525] [info] [console_user_server] core_configuration is updated.
+[2019-07-06 16:33:38.132] [info] [console_user_server] Check for updates...
