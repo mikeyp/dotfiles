@@ -1,6 +1,7 @@
 
 # General purpose stuff
 set -x EDITOR "code -w"
+set -x REACT_EDITOR "wstorm"
 
 # Configure PATH stuff
 set -x GOPATH $HOME/Dropbox/projects/go
@@ -13,11 +14,10 @@ set -g fish_user_paths "/usr/local/opt/icu4c/bin" $fish_user_paths
 set -g fish_user_paths "/usr/local/opt/icu4c/sbin" $fish_user_paths
 
 # Configure PHP
-set -g fish_user_paths "/usr/local/opt/php@7.2/bin" $fish_user_paths
-set -g fish_user_paths "/usr/local/opt/php@7.2/sbin" $fish_user_paths
+set -g fish_user_paths "/usr/local/opt/php@7.1/bin" $fish_user_paths
+set -g fish_user_paths "/usr/local/opt/php@7.1/sbin" $fish_user_paths
 # set -g fish_user_paths "/usr/local/opt/php@7.1/bin" $fish_user_paths
 # set -g fish_user_paths "/usr/local/opt/php@7.1/sbin" $fish_user_paths
-
 
 # Configure Docksal shims
 set -x fish_user_paths $HOME/.docksal/shims $fish_user_paths
@@ -35,6 +35,9 @@ set -x LOLCOMMITS_DELAY 2
 if test -e ~/.config/fish/secrets.fish
     source ~/.config/fish/secrets.fish
 end
+
+# Override theme colors
+set -g color_git_dirty_bg bryellow
 
 # Aliases
 alias typora="open -a typora"
