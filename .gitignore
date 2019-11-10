@@ -1,4 +1,5 @@
 config/configstore
+config/gatsby
 config/gcloud
 config/hub
 config/yarn/global/node_modules
