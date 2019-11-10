@@ -7,9 +7,19 @@ function getLeftScreen()
 end
 
 function getRightScreen()
-  if (hs.screen.allScreens()[2] ~= nil) then 
+  if (hs.screen.allScreens()[3] ~= nil) then
+    return hs.screen.allScreens()[3]
+  elseif (hs.screen.allScreens()[2] ~= nil) then
     return hs.screen.allScreens()[2]
-  else 
+  else
+    return hs.screen.allScreens()[1]
+  end
+end
+
+function getThirdScreen()
+  if (hs.screen.allScreens()[3] ~= nil) then
+    return hs.screen.allScreens()[3]
+  else
     return hs.screen.allScreens()[1]
   end
 end
@@ -78,6 +88,33 @@ end
 function rightRightHalf(window)
   undo:push(window)
   window:setFrame(getRightRightHalfRect())
+end
+
+-------------------------------------------------------------------------------
+-- Third screen
+-------------------------------------------------------------------------------
+function getThirdLeftHalfRect()
+  local screen = getThirdScreen()
+  local max = screen:frame()
+  local frame = hs.geometry.rect(max.x, max.y, max.w/2, max.h)
+  return frame
+end
+
+function thirdLeftHalf(window)
+  undo:push(window)
+  window:setFrame(getThirdLeftHalfRect())
+end
+
+function getThirdRightHalfRect()
+  local screen = getThirdScreen()
+  local max = screen:frame()
+  local frame = hs.geometry.rect(max.x + max.w/2, max.y, max.w/2, max.h)
+  return frame
+end
+
+function thirdRightHalf(window)
+  undo:push(window)
+  window:setFrame(getThirdRightHalfRect())
 end
 
 

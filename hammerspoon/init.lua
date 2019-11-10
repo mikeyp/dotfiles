@@ -47,6 +47,7 @@ hs.hotkey.bind(hyper, "D", function()
 
   if (application ~= nil) then
     local id = hs.spotify.getCurrentTrackId()
+    dbg(id)
     local embed_url = f"https://embed.spotify.com/oembed?url={id}"
 
     hs.http.asyncGet(embed_url, {}, function(status, body, headers)
@@ -66,7 +67,7 @@ hs.hotkey.bind(hyper, "D", function()
 end)
 
 -- Spotify previous track
-hs.hotkey.bind(hyper, "left", function()
+hs.hotkey.bind(hyper, "q", function()
   local application = hs.application.find("Spotify")
   if (application ~= nil) then
     hs.spotify.previous()
@@ -74,7 +75,7 @@ hs.hotkey.bind(hyper, "left", function()
 end)
 
 -- Spotify previous track
-hs.hotkey.bind(hyper, "right", function()
+hs.hotkey.bind(hyper, "w", function()
   local application = hs.application.find("Spotify")
   if (application ~= nil) then
     hs.spotify.next()
@@ -98,6 +99,12 @@ hs.hotkey.bind(hyper, "R", chain({
 hs.hotkey.bind(hyper, "T", chain({
   rightLeftHalf,
   rightRightHalf
+}))
+
+-- Third toggler
+hs.hotkey.bind(hyper, "E", chain({
+  thirdLeftHalf,
+  thirdRightHalf
 }))
 
 -- PHPStorm hotkey
