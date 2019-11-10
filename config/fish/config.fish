@@ -55,6 +55,7 @@ end
 function branch
     command git branch --sort=-committerdate | cut -c 3- | peco | xargs git checkout
 end
+alias b="branch"
 
 function ll
     command ls -lahG $argv
