@@ -2,6 +2,7 @@ config/configstore
 config/gatsby
 config/gcloud
 config/hub
+config/gh
 config/yarn/global/node_modules
 config/fish/secrets.fish
 local/share/fish/fish_history
