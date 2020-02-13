@@ -32,6 +32,7 @@
 [user]
 	name = Michael Prasuhn
 	email = mike@mikeyp.net
+	signingkey = F00926158B5B8781
 [receive]
 	denyCurrentBranch = warn
 [url "http://git.drupal.org/project/"]
@@ -61,3 +62,5 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[commit]
+	gpgsign = true
