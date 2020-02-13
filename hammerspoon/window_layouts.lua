@@ -18,7 +18,7 @@ end
 
 function getThirdScreen()
   if (hs.screen.allScreens()[3] ~= nil) then
-    return hs.screen.allScreens()[3]
+    return hs.screen.allScreens()[2]
   else
     return hs.screen.allScreens()[1]
   end
