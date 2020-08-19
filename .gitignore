@@ -1,9 +1,11 @@
 config/configstore
+config/fish/secrets.fish
 config/gatsby
 config/gcloud
-config/hub
 config/gh
+config/hub
+config/sanity
 config/yarn/global/node_modules
-config/fish/secrets.fish
+
 local/share/fish/fish_history
 local/share/fish/fish_read_history

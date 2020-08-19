@@ -14,8 +14,8 @@ set -g fish_user_paths "/usr/local/opt/icu4c/bin" $fish_user_paths
 set -g fish_user_paths "/usr/local/opt/icu4c/sbin" $fish_user_paths
 
 # Configure PHP
-set -g fish_user_paths "/usr/local/opt/php@7.1/bin" $fish_user_paths
-set -g fish_user_paths "/usr/local/opt/php@7.1/sbin" $fish_user_paths
+# set -g fish_user_paths "/usr/local/opt/php@7.1/bin" $fish_user_paths
+# set -g fish_user_paths "/usr/local/opt/php@7.1/sbin" $fish_user_paths
 # set -g fish_user_paths "/usr/local/opt/php@7.1/bin" $fish_user_paths
 # set -g fish_user_paths "/usr/local/opt/php@7.1/sbin" $fish_user_paths
 
@@ -44,7 +44,7 @@ alias typora="open -a typora"
 
 # Functions
 function proj
-    eval (find ~/git ~/Dropbox/projects ~/www ~/ex ~/Sync ~/Localdev -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
+    eval (find ~/git ~/Dropbox/projects ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
 end
 alias p="proj"
 
