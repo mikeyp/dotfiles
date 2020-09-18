@@ -270,9 +270,7 @@ function fish_prompt
   prompt_user
   prompt_dir
   if [ (cwd_in_scm_blacklist | wc -c) -eq 0 ]
-    type -q hg;  and prompt_hg
     type -q git; and prompt_git
-    type -q svn; and prompt_svn
   end
   prompt_finish
 end
