@@ -6,7 +6,7 @@ chain = (function(movements)
 
   return function()
     local window = hs.window.focusedWindow()
-    local key = window.key(window)
+    local key = window:id()
     if sequenceNumber[key] == nil then
       sequenceNumber[key] = 1
     end
