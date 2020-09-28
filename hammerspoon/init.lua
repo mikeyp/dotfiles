@@ -19,11 +19,6 @@ hs.window.animationDuration = 0
 -- Allow spotlight searches for apps
 hs.application.enableSpotlightForNameSearches(true)
 
--- Lock displays
-hs.hotkey.bind(hyper, "s", function()
-  hs.caffeinate.lockScreen()
-end)
-
 -- Undo
 hs.hotkey.bind(hyper, "U", function()
   undo:pop()
@@ -165,7 +160,9 @@ local focusApps = {
   "Mail",
   "Slack",
   "Tweetbot",
-  "Messages"
+  "Messages",
+  "Messenger",
+  "Mailplane"
 }
 
 local rescueTimeWatcher = hs.settings.watchKey('main', 'rescuetime-focus-mode', function()
