@@ -1037,3 +1037,171 @@
 [2019-07-06 16:33:35.471] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
 [2019-07-06 16:33:35.525] [info] [console_user_server] core_configuration is updated.
 [2019-07-06 16:33:38.132] [info] [console_user_server] Check for updates...
+[2020-09-19 01:22:52.488] [info] [console_user_server] version 12.10.0
+[2020-09-19 01:22:52.782] [info] [console_user_server] receiver is initialized
+[2020-09-19 01:22:52.782] [info] [console_user_server] receiver: failed to bind
+[2020-09-19 01:22:53.798] [info] [console_user_server] receiver: failed to bind
+[2020-09-19 01:22:54.852] [info] [console_user_server] receiver: failed to bind
+[2020-09-19 01:22:55.929] [info] [console_user_server] receiver: bound
+[2020-09-19 01:22:55.929] [info] [console_user_server] grabber_client is started.
+[2020-09-19 01:22:55.929] [info] [console_user_server] grabber_client is connected.
+[2020-09-19 01:22:57.931] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-19 01:22:57.935] [info] [console_user_server] core_configuration is updated.
+[2020-09-19 01:22:58.185] [info] [console_user_server] Check for updates...
+[2020-09-21 17:50:53.188] [info] [console_user_server] version 12.10.0
+[2020-09-21 17:50:54.167] [info] [console_user_server] receiver is initialized
+[2020-09-21 17:50:54.167] [info] [console_user_server] receiver: bound
+[2020-09-21 17:50:54.253] [info] [console_user_server] grabber_client is started.
+[2020-09-21 17:50:54.360] [info] [console_user_server] grabber_client is connected.
+[2020-09-21 17:51:00.109] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-21 17:51:00.113] [info] [console_user_server] core_configuration is updated.
+[2020-09-21 17:51:00.310] [info] [console_user_server] Check for updates...
+[2020-09-22 09:55:44.990] [info] [console_user_server] version 12.10.0
+[2020-09-22 09:55:46.625] [info] [console_user_server] receiver is initialized
+[2020-09-22 09:55:46.626] [info] [console_user_server] receiver: bound
+[2020-09-22 09:55:46.626] [info] [console_user_server] grabber_client is started.
+[2020-09-22 09:55:46.626] [info] [console_user_server] grabber_client is connected.
+[2020-09-22 09:55:48.803] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-22 09:55:48.835] [info] [console_user_server] core_configuration is updated.
+[2020-09-22 09:55:48.875] [info] [console_user_server] Check for updates...
+[2020-09-22 10:03:30.235] [info] [console_user_server] version 12.10.0
+[2020-09-22 10:03:30.717] [info] [console_user_server] receiver is initialized
+[2020-09-22 10:03:30.718] [info] [console_user_server] receiver: failed to bind
+[2020-09-22 10:03:31.775] [info] [console_user_server] receiver: failed to bind
+[2020-09-22 10:03:32.775] [info] [console_user_server] receiver: failed to bind
+[2020-09-22 10:03:33.853] [info] [console_user_server] receiver: failed to bind
+[2020-09-22 10:03:34.925] [info] [console_user_server] receiver: bound
+[2020-09-22 10:03:34.926] [info] [console_user_server] grabber_client is started.
+[2020-09-22 10:03:34.926] [info] [console_user_server] grabber_client is connected.
+[2020-09-22 10:03:44.813] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-22 10:03:44.814] [info] [console_user_server] core_configuration is updated.
+[2020-09-22 10:03:46.034] [info] [console_user_server] Check for updates...
+[2020-09-22 10:09:46.834] [info] [console_user_server] version 12.10.0
+[2020-09-22 10:09:48.750] [info] [console_user_server] receiver is initialized
+[2020-09-22 10:09:48.960] [info] [console_user_server] receiver: bound
+[2020-09-22 10:09:48.960] [info] [console_user_server] grabber_client is started.
+[2020-09-22 10:09:48.990] [info] [console_user_server] grabber_client is connected.
+[2020-09-22 10:09:54.118] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-22 10:09:54.119] [info] [console_user_server] core_configuration is updated.
+[2020-09-22 10:09:54.377] [info] [console_user_server] Check for updates...
+[2020-09-23 13:58:00.398] [info] [console_user_server] version 12.10.0
+[2020-09-23 13:58:01.999] [info] [console_user_server] receiver is initialized
+[2020-09-23 13:58:02.033] [info] [console_user_server] receiver: bound
+[2020-09-23 13:58:02.033] [info] [console_user_server] grabber_client is started.
+[2020-09-23 13:58:02.034] [info] [console_user_server] grabber_client is connected.
+[2020-09-23 13:58:06.041] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-23 13:58:06.044] [info] [console_user_server] core_configuration is updated.
+[2020-09-23 13:58:06.161] [info] [console_user_server] Check for updates...
+[2020-09-24 17:02:58.114] [info] [console_user_server] version 12.10.0
+[2020-09-24 17:03:00.113] [info] [console_user_server] receiver is initialized
+[2020-09-24 17:03:00.114] [info] [console_user_server] receiver: bound
+[2020-09-24 17:03:00.114] [info] [console_user_server] grabber_client is started.
+[2020-09-24 17:03:00.114] [info] [console_user_server] grabber_client is connected.
+[2020-09-24 17:03:05.345] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-24 17:03:05.363] [info] [console_user_server] core_configuration is updated.
+[2020-09-24 17:03:05.544] [info] [console_user_server] Check for updates...
+[2020-09-26 17:44:09.955] [info] [console_user_server] version 12.10.0
+[2020-09-26 17:44:10.943] [info] [console_user_server] receiver is initialized
+[2020-09-26 17:44:11.082] [info] [console_user_server] receiver: bound
+[2020-09-26 17:44:11.083] [info] [console_user_server] grabber_client is started.
+[2020-09-26 17:44:11.092] [info] [console_user_server] grabber_client is connected.
+[2020-09-26 17:44:14.879] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-26 17:44:14.881] [info] [console_user_server] core_configuration is updated.
+[2020-09-26 17:44:15.096] [info] [console_user_server] Check for updates...
+[2020-09-26 17:58:47.155] [info] [console_user_server] version 12.10.0
+[2020-09-26 17:58:48.158] [info] [console_user_server] receiver is initialized
+[2020-09-26 17:58:48.161] [info] [console_user_server] receiver: bound
+[2020-09-26 17:58:48.162] [info] [console_user_server] grabber_client is started.
+[2020-09-26 17:58:48.163] [info] [console_user_server] grabber_client is connected.
+[2020-09-26 17:58:49.077] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-26 17:58:49.079] [info] [console_user_server] core_configuration is updated.
+[2020-09-26 17:58:49.396] [info] [console_user_server] Check for updates...
+[2020-09-28 17:00:04.466] [info] [console_user_server] version 12.10.0
+[2020-09-28 17:00:06.094] [info] [console_user_server] receiver is initialized
+[2020-09-28 17:00:06.095] [info] [console_user_server] receiver: bound
+[2020-09-28 17:00:06.095] [info] [console_user_server] grabber_client is started.
+[2020-09-28 17:00:06.096] [info] [console_user_server] grabber_client is connected.
+[2020-09-28 17:00:09.241] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-28 17:00:09.242] [info] [console_user_server] core_configuration is updated.
+[2020-09-28 17:00:09.483] [info] [console_user_server] Check for updates...
+[2020-09-28 18:30:44.591] [info] [console_user_server] version 12.10.0
+[2020-09-28 18:30:45.409] [info] [console_user_server] receiver is initialized
+[2020-09-28 18:30:45.410] [info] [console_user_server] receiver: bound
+[2020-09-28 18:30:45.410] [info] [console_user_server] grabber_client is started.
+[2020-09-28 18:30:45.410] [info] [console_user_server] grabber_client is connected.
+[2020-09-28 18:30:46.923] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-28 18:30:46.945] [info] [console_user_server] core_configuration is updated.
+[2020-09-28 18:30:47.006] [info] [console_user_server] Check for updates...
+[2020-09-28 18:38:15.246] [info] [console_user_server] version 12.10.0
+[2020-09-28 18:38:15.747] [info] [console_user_server] receiver is initialized
+[2020-09-28 18:38:15.748] [info] [console_user_server] receiver: failed to bind
+[2020-09-28 18:38:16.782] [info] [console_user_server] receiver: bound
+[2020-09-28 18:38:16.782] [info] [console_user_server] grabber_client is started.
+[2020-09-28 18:38:16.782] [info] [console_user_server] grabber_client is connected.
+[2020-09-28 18:38:19.348] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-28 18:38:19.351] [info] [console_user_server] core_configuration is updated.
+[2020-09-28 18:38:19.883] [info] [console_user_server] Check for updates...
+[2020-09-29 10:17:58.525] [info] [console_user_server] version 12.10.0
+[2020-09-29 10:17:59.676] [info] [console_user_server] receiver is initialized
+[2020-09-29 10:17:59.676] [info] [console_user_server] receiver: bound
+[2020-09-29 10:17:59.677] [info] [console_user_server] grabber_client is started.
+[2020-09-29 10:17:59.677] [info] [console_user_server] grabber_client is connected.
+[2020-09-29 10:18:02.703] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-29 10:18:02.704] [info] [console_user_server] core_configuration is updated.
+[2020-09-29 10:18:03.175] [info] [console_user_server] Check for updates...
+[2020-09-30 09:45:25.731] [info] [console_user_server] version 12.10.0
+[2020-09-30 09:45:27.176] [info] [console_user_server] receiver is initialized
+[2020-09-30 09:45:27.177] [info] [console_user_server] receiver: bound
+[2020-09-30 09:45:27.177] [info] [console_user_server] grabber_client is started.
+[2020-09-30 09:45:27.178] [info] [console_user_server] grabber_client is connected.
+[2020-09-30 09:45:31.668] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-09-30 09:45:31.672] [info] [console_user_server] core_configuration is updated.
+[2020-09-30 09:45:31.714] [info] [console_user_server] Check for updates...
+[2020-10-01 11:40:57.894] [info] [console_user_server] version 12.10.0
+[2020-10-01 11:40:59.014] [info] [console_user_server] receiver is initialized
+[2020-10-01 11:40:59.015] [info] [console_user_server] receiver: bound
+[2020-10-01 11:40:59.015] [info] [console_user_server] grabber_client is started.
+[2020-10-01 11:40:59.016] [info] [console_user_server] grabber_client is connected.
+[2020-10-01 11:41:01.102] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-01 11:41:01.168] [info] [console_user_server] core_configuration is updated.
+[2020-10-01 11:41:01.307] [info] [console_user_server] Check for updates...
+[2020-10-02 15:54:50.675] [info] [console_user_server] version 12.10.0
+[2020-10-02 15:54:51.445] [info] [console_user_server] receiver is initialized
+[2020-10-02 15:54:51.446] [info] [console_user_server] receiver: bound
+[2020-10-02 15:54:51.446] [info] [console_user_server] grabber_client is started.
+[2020-10-02 15:54:51.447] [info] [console_user_server] grabber_client is connected.
+[2020-10-02 15:54:53.197] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-02 15:54:53.198] [info] [console_user_server] core_configuration is updated.
+[2020-10-02 15:54:53.487] [info] [console_user_server] Check for updates...
+[2020-10-04 20:25:54.293] [info] [console_user_server] version 12.10.0
+[2020-10-04 20:25:55.211] [info] [console_user_server] receiver is initialized
+[2020-10-04 20:25:55.212] [info] [console_user_server] receiver: bound
+[2020-10-04 20:25:55.212] [info] [console_user_server] grabber_client is started.
+[2020-10-04 20:25:55.212] [info] [console_user_server] grabber_client is connected.
+[2020-10-04 20:26:01.001] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-04 20:26:01.041] [info] [console_user_server] core_configuration is updated.
+[2020-10-04 20:26:01.099] [info] [console_user_server] Check for updates...
+[2020-10-04 20:50:01.055] [info] [console_user_server] version 13.0.0
+[2020-10-04 20:50:01.218] [info] [console_user_server] receiver is initialized
+[2020-10-04 20:50:01.219] [info] [console_user_server] receiver: bound
+[2020-10-04 20:50:01.219] [info] [console_user_server] grabber_client is started.
+[2020-10-04 20:50:01.219] [info] [console_user_server] grabber_client is connected.
+[2020-10-04 20:50:01.503] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-04 20:50:01.505] [info] [console_user_server] core_configuration is updated.
+[2020-10-04 20:50:01.517] [info] [console_user_server] Check for updates...
+[2020-10-06 15:36:47.781] [info] [console_user_server] version 13.0.0
+[2020-10-06 15:36:48.932] [info] [console_user_server] receiver is initialized
+[2020-10-06 15:36:48.976] [info] [console_user_server] receiver: bound
+[2020-10-06 15:36:48.976] [info] [console_user_server] grabber_client is started.
+[2020-10-06 15:36:48.981] [info] [console_user_server] grabber_client is connected.
+[2020-10-06 15:36:50.992] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-06 15:36:51.087] [info] [console_user_server] core_configuration is updated.
+[2020-10-06 15:36:51.142] [info] [console_user_server] Check for updates...
+[2020-10-07 17:55:49.218] [info] [console_user_server] version 13.0.0
+[2020-10-07 17:55:52.213] [info] [console_user_server] receiver is initialized
+[2020-10-07 17:55:52.215] [info] [console_user_server] receiver: bound
+[2020-10-07 17:55:52.215] [info] [console_user_server] grabber_client is started.
+[2020-10-07 17:55:52.217] [info] [console_user_server] grabber_client is connected.
+[2020-10-07 17:55:59.669] [info] [console_user_server] Load /Users/mdp/.config/karabiner/karabiner.json...
+[2020-10-07 17:55:59.678] [info] [console_user_server] core_configuration is updated.
+[2020-10-07 17:55:59.709] [info] [console_user_server] Check for updates...

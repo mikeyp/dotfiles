@@ -174,4 +174,5 @@ layout1 = {
   {"Spotify", nil, getLeftScreen(), nil, getLeftBottomLeftRect(), nil},
   {"Code", nil, getRightScreen(), nil, getRightLeftFourSeventhsRect(), nil},
   {"Mail", nil, getRightScreen(), nil, getRightLeftFourSeventhsRect(), nil},
+  {"Mailplane", nil, getRightScreen(), nil, getRightLeftFourSeventhsRect(), nil},
 }

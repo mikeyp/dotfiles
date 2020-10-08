@@ -31,7 +31,7 @@ alias typora="open -a typora"
 
 # Functions
 function proj
-    eval (find ~/git ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort -rn | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
+    eval (find ~/git ~/www ~/ex ~/Sync -maxdepth 1 -type d -print0 |  xargs -0 -n 100 stat -f"%m %N" | sort --reverse --numeric-sort | awk '{print $2}' | peco | ifne cat | awk '{print "cd "  $1}')
 end
 alias p="proj"
 
