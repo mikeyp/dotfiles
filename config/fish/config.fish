@@ -40,6 +40,19 @@ function branch
 end
 alias b="branch"
 
+function context
+    command kubectl config get-contexts --no-headers --output='name' | peco | xargs kubectl config use-context
+end
+alias kc="context"
+
+function namespace
+    command kubectl get namespaces --output custom-columns=name:.metadata.name --no-headers=true | peco | xargs kubectl config set-context --current --namespace
+end
+alias kns="namespace"
+
+alias k="kubectl"
+alias mk="minikube"
+
 function ll
     command ls -lahG $argv
 end
