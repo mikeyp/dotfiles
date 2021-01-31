@@ -21,12 +21,15 @@
   st = status
   ci = commit
   co = checkout
+	di = diff --find-copies-harder
+	dc = diff --find-copies-harder --cached
+	amend = commit --amend
+	aa = add --all
+  ff = merge --ff-only
   po = push origin
   pr = pull --rebase
-	pu = pull --rebase
 	p = pull --rebase
   graph = log --pretty=medium --date=local --abbrev-commit --graph --decorate --color
-  sb = !git reflog | grep 'checkout: moving from' | cut -d\\  -f 6 | awk '!_[$0]++' | peco | xargs git checkout
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit
 [user]
