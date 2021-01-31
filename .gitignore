@@ -4,8 +4,12 @@ config/gatsby
 config/gcloud
 config/gh
 config/hub
+config/iterm2
 config/sanity
+config/stripe/
 config/yarn/global/node_modules
 
 local/share/fish/fish_history
 local/share/fish/fish_read_history
+local/share/karabiner/
+local/share/sfdx/
